@@ -1,0 +1,2692 @@
+{
+
+    
+      "video": {
+    "title": "How Angez Empowers Sudanese Talent",
+    "description": "Discover the platform that connects skilled Sudanese professionals with clients worldwide, ensuring secure transactions and fair opportunities for all.",
+    "notSupported": "Your browser does not support the video tag.",
+    "benefits": {
+      "secure": "100% secure payments & rights protection",
+      "community": "Vibrant Sudanese freelancer community",
+      "opportunities": "New work opportunities daily",
+      "guarantee": "Satisfaction guarantee on all work"
+    },
+    "cta": {
+      "watch": "Watch Video",
+      "join": "Join Now"
+    }
+  }
+      ,
+    "bankDetails": {
+        "title": "Bank Transfer Details",
+        "accountName": "Account Name",
+        "bankAccount": "Bank Account",
+        "fawryAccount": "Fawry Account",
+        "primaryAccount": "Primary Account",
+        "iban": "IBAN",
+        "transferGuide": "Transfer Instructions",
+        "steps": {
+            "1": "Go to your bank's app/website",
+            "2": "Enter the account details below",
+            "3": "Transfer the exact order amount: {amount}",
+            "4": "Upload the payment proof above"
+        },
+        "importantNote": "Important: Include your order number ({orderNumber}) in the transfer notes"
+    },
+    "rights": {
+        "title": "Protecting Your Rights",
+        "description": "Ensuring a fair and secure experience for all Angez users",
+        "introduction": {
+            "title": "Introduction",
+            "content": "At Angez, we believe success in freelancing begins with mutual trust and clarity around rights and responsibilities. This guide ensures a fair and secure experience for both clients and service providers."
+        },
+        "provider_rights": {
+            "title": "Service Provider Rights",
+            "items": [
+                "To receive the agreed payment upon completing the work",
+                "To request clear project requirements before starting",
+                "A professional, respectful communication environment",
+                "Protection of intellectual property rights to their work"
+            ]
+        },
+        "provider_responsibilities": {
+            "title": "Service Provider Responsibilities",
+            "items": [
+                "Deliver high-quality work within agreed deadlines",
+                "Respect client privacy and confidentiality",
+                "Prompt communication during project execution",
+                "Implement agreed-upon revisions within project scope"
+            ]
+        },
+        "client_rights": {
+            "title": "Client Rights",
+            "items": [
+                "Receive work that meets agreed specifications",
+                "Request revisions as outlined in the agreement",
+                "Protection against unjustified delays",
+                "A professional working environment"
+            ]
+        },
+        "client_responsibilities": {
+            "title": "Client Responsibilities",
+            "items": [
+                "Clearly define project requirements upfront",
+                "Provide constructive, specific feedback",
+                "Not to misuse or redistribute work beyond agreement"
+            ]
+        },
+        "platform_commitments": {
+            "title": "Platform Commitments",
+            "items": [
+                "Secure payment system linking payment to delivery",
+                "Fair dispute resolution when needed",
+                "Full protection of user data and confidentiality",
+                "Available technical support for all parties"
+            ]
+        },
+        "tips": {
+            "title": "Important Tips",
+            "content": "Always ensure there's a clear written agreement within the platform, and carefully review project details before accepting or submitting work."
+        },
+        "cta": {
+            "heading": "Have more questions?",
+            "description": "Our support team is here to help",
+            "button": "Contact Us"
+        }
+    },
+    "terms": {
+        "title": "Terms of Service",
+        "description": "Terms and conditions governing the use of Angez platform",
+        "last_updated": "Last updated: {{date}}",
+        "sections": {
+            "introduction": {
+                "title": "Introduction",
+                "content": "Welcome to our freelance platform. By using this website, you agree to comply with the following terms of use. Please read them carefully."
+            },
+            "definitions": {
+                "title": "Definitions",
+                "items": [
+                    "Platform: Refers to our website and its related services",
+                    "User: Includes both service providers and clients",
+                    "Service: Any task or digital product offered through the platform"
+                ]
+            },
+            "registration": {
+                "title": "Registration and Account Use",
+                "items": [
+                    "Users must provide accurate information during registration",
+                    "It is prohibited to use another person's account or share login credentials",
+                    "The platform reserves the right to suspend or delete any violating account"
+                ]
+            },
+            "usage": {
+                "title": "Platform Usage",
+                "items": [
+                    "The platform must not be used for any illegal activities",
+                    "It is forbidden to post offensive or infringing content",
+                    "All users must respect payment and transaction policies"
+                ]
+            },
+            "payments": {
+                "title": "Payments and Commissions",
+                "items": [
+                    "The platform retains a 20% commission per successful transaction",
+                    "Payments are processed through secure and approved methods",
+                    "The platform is committed to protecting payment data"
+                ]
+            },
+            "intellectual_property": {
+                "title": "Intellectual Property",
+                "items": [
+                    "All content published on the platform is subject to intellectual property rights",
+                    "Each user retains the rights to their own work unless otherwise agreed"
+                ]
+            },
+            "liability": {
+                "title": "Liability",
+                "items": [
+                    "The platform is not responsible for disputes between users but will mediate",
+                    "The platform is not liable for any losses resulting from service use"
+                ]
+            },
+            "changes": {
+                "title": "Modifications to Terms",
+                "content": "The platform reserves the right to update these terms at any time. Users are encouraged to check this page periodically for updates."
+            },
+            "refunds": {
+                "title": "Refund Policy",
+                "items": [
+                    "A client may request a refund if the service wasn't delivered as agreed",
+                    "Refund requests are reviewed within 3 to 7 business days",
+                    "Refunds aren't allowed after final client approval"
+                ]
+            },
+            "contact": {
+                "title": "Contact Us",
+                "content": "For inquiries or complaints, please contact us via email at angez.platform@outlook.com"
+            }
+        },
+        "cta": {
+            "heading": "Have more questions?",
+            "description": "Our support team is here to help",
+            "button": "Contact Us"
+        }
+    },
+
+    "privacy": {
+        "title": "Privacy Policy",
+        "description": "How we protect and use your data on Angez platform",
+        "last_updated": "Last updated: {{date}}",
+        "sections": {
+            "introduction": {
+                "title": "Introduction",
+                "content": "At Angez, your privacy is a top priority. This policy explains how we collect, use, and protect the information you provide when using our services."
+            },
+            "information_collected": {
+                "title": "Information We Collect",
+                "items": [
+                    "Personal Information: Such as your name, email address, phone number, and location (when necessary)",
+                    "Usage Information: Such as the pages you visit, time spent on the platform, and the type of device or browser you use"
+                ]
+            },
+            "information_use": {
+                "title": "How We Use Your Information",
+                "items": [
+                    "To improve our services and enhance your user experience",
+                    "To contact you regarding updates, offers, or technical support",
+                    "To ensure platform security and monitor for suspicious activity"
+                ]
+            },
+            "protection": {
+                "title": "Information Protection",
+                "content": "We use technical and organizational security measures to protect your information from unauthorized access, use, or disclosure."
+            },
+            "sharing": {
+                "title": "Information Sharing",
+                "content": "We do not sell or share your personal information with third parties without your consent, unless required by law."
+            },
+            "cookies": {
+                "title": "Cookies",
+                "content": "We use cookies to improve user experience. You can manage cookie preferences through your browser settings."
+            },
+            "rights": {
+                "title": "Your Rights",
+                "content": "You have the right to access, modify, or request the deletion of your personal information from our systems."
+            },
+            "changes": {
+                "title": "Changes to This Policy",
+                "content": "We may update this policy occasionally. You will be notified of any changes via email or through our website."
+            },
+            "contact": {
+                "title": "Contact Us",
+                "content": "For any questions regarding this privacy policy, please contact us via [angez.platform@outlook.com]"
+            }
+        },
+        "cta": {
+            "heading": "Have more questions?",
+            "description": "Our support team is here to help",
+            "button": "Contact Us"
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "description": "We're here to help. Reach out to Angez team today.",
+        "sections": {
+            "form": {
+                "heading": "Send us a message",
+                "fields": {
+                    "name": "Full Name",
+                    "email": "Email Address",
+                    "subject": "Subject",
+                    "message": "Your Message",
+                    "submit": "Send Message"
+                },
+                "success": "Thank you! We'll get back to you soon."
+            },
+            "info": {
+                "heading": "Contact Information",
+                "items": [
+                    {
+                        "title": "Email",
+                        "value": "angez.platform@outlook.com",
+                        "icon": "mail"
+                    },
+                    {
+                        "title": "Working Hours",
+                        "value": "Sunday - Thursday: 8AM - 4PM",
+                        "icon": "clock"
+                    },
+                    {
+                        "title": "Technical Support",
+                        "value": "Available 24/7",
+                        "icon": "support"
+                    }
+                ]
+            },
+            "social": {
+                "heading": "Follow Us",
+                "items": [
+                    {
+                        "name": "Facebook",
+                        "icon": "facebook"
+                    },
+                    {
+                        "name": "Twitter",
+                        "icon": "twitter"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "icon": "linkedin"
+                    }
+                ]
+            }
+        },
+        "map": {
+            "heading": "Our Location",
+            "description": "Khartoum, Sudan"
+        }
+    },
+    "faq": {
+        "title": "FAQ",
+        "description": "Answers to all your questions about Angez platform",
+        "categories": {
+            "general": "General",
+            "providers": "For Providers",
+            "clients": "For Clients",
+            "payments": "Payments",
+            "disputes": "Disputes"
+        },
+        "search_placeholder": "Search FAQs...",
+        "questions": {
+            "experience_needed": {
+                "question": "Do I need prior experience to work on Angez?",
+                "answer": "Yes, you need knowledge and practical experience, and you must be able to prove your skills to clients to successfully market your services. However, you don't need years of experience or academic degrees. What matters most is being skilled and capable of delivering quality work."
+            },
+            "service_security": {
+                "question": "Is the service secure?",
+                "answer": "Angez is 100% secure in terms of protecting both rights and payments. Service providers receive their payment only after the agreed-upon work is completed and confirmed. The platform holds both the payment and the deliverables until both parties confirm the transaction."
+            },
+            "dispute_resolution": {
+                "question": "What happens in case of a dispute?",
+                "answer": "Angez encourages resolving disputes amicably between both parties. However, if that fails, you can report the issue and our team will review and resolve it as quickly as possible."
+            },
+            "payment_methods": {
+                "question": "What payment methods are available?",
+                "answer": "Angez uses all types of Sudanese banking payment methods."
+            },
+            "platform_commission": {
+                "question": "How does the platform commission work?",
+                "answer": "We act as a mediator between the service provider and the buyer, ensuring the rights of both sides. A 20% commission is charged per order, deducted from the service provider only. The buyer pays no additional fees."
+            },
+            "work_not_delivered": {
+                "question": "What if the work isn't delivered as agreed?",
+                "answer": "If the delivered work doesn't match the agreement and the issue isn't resolved, the platform can refund your money, provided no solution can be reached with the service provider."
+            },
+            "revisions_policy": {
+                "question": "What kind of revisions can I request?",
+                "answer": "The client has the right to request any revisions that align with the original agreement. However, requesting additional work beyond that requires a new agreement or purchasing an upgraded package from the service provider."
+            },
+            "external_communication": {
+                "question": "What if I contact the service provider outside the platform?",
+                "answer": "Angez does not guarantee any interactions or agreements made outside the platform. To protect your rights, always communicate and complete transactions within Angez only."
+            },
+            "order_process": {
+                "question": "How do I order a service?",
+                "answer": "Once you find a service you're interested in, simply add it to your cart, complete the payment, and then contact the seller with the details to begin the work."
+            }
+        },
+        "contact_cta": {
+            "heading": "Didn't find your answer?",
+            "description": "Our support team is available 24/7 to help you",
+            "button": "Contact Us"
+        }
+    },
+    "about": {
+        "title": "About Angez",
+        "hero": {
+            "heading": "Sudanese Freelance Marketplace Connecting Talent with Opportunity",
+            "subheading": "Empowering creativity and professional growth",
+            "badge": "About Angez"
+        },
+        "sections": {
+            "our_story": {
+                "title": "Our Story",
+                "content": "Angez began its journey in the freelancing field with a mission to provide talented Sudanese individuals the opportunity to showcase and benefit from their skills. From the start, Angez has been driven by one core purpose: to support the Sudanese community in finding a solid foundation for doing business."
+            },
+            "mission": {
+                "title": "Our Mission",
+                "content": "We believe Sudanese talent deserves every opportunity to thrive and be recognized. That's why we are committed to increasing job opportunities and helping creativity flourish through a secure and fair platform."
+            },
+            "values": {
+                "description": "The core principles that guide everything we do at Anjez",
+                "subtitle": "Our Values",
+                "title": "Our Values",
+                "items": [
+                    {
+                        "title": "Security",
+                        "description": "Protecting rights and data of all parties"
+                    },
+                    {
+                        "title": "Transparency",
+                        "description": "Clear transactions with no surprises"
+                    },
+                    {
+                        "title": "Empowerment",
+                        "description": "Creating opportunities for Sudanese talent"
+                    },
+                    {
+                        "title": "Quality",
+                        "description": "Ensuring work meets highest standards"
+                    }
+                ]
+            },
+            "how_it_works": {
+                "title": "How Angez Works",
+                "description": "A simple, transparent process that benefits both clients and freelancers",
+                "subtitle": "Our Process",
+                "steps": [
+                    {
+                        "title": "List Your Service",
+                        "description": "Register as provider and showcase skills"
+                    },
+                    {
+                        "title": "Find Talent",
+                        "description": "Browse services or search for what you need"
+                    },
+                    {
+                        "title": "Collaborate Securely",
+                        "description": "Communicate and pay through platform with full guarantees"
+                    },
+                    {
+                        "title": "Get Results",
+                        "description": "Receive your work or payment as agreed"
+                    }
+                ]
+            },
+            "stats": {
+                "title": "Angez By Numbers",
+                "description": "Our growing community and platform impact in numbers",
+                "items": [
+                    {
+                        "value": "100+",
+                        "label": "Verified Providers"
+                    },
+                    {
+                        "value": "100%",
+                        "description": "Secure Payments"
+                    },
+                    {
+                        "value": "24/7",
+                        "description": "Support Available"
+                    },
+                    {
+                        "value": "20%",
+                        "description": "Commission (from seller only)"
+                    }
+                ]
+            }
+        },
+        "cta": {
+            "heading": "Join the Angez Community Today",
+            "description": "Join thousands of satisfied clients and freelancers who trust our platform for their projects and careers.",
+
+            "buttons": {
+                "join": "Sign Up Now",
+                "contact": "Contact Us"
+            }
+        },
+        "links": {
+            "faq": "FAQ",
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Use",
+            "rights": "Protecting Your Rights"
+        }
+    },
+    "nav": {
+        "home": "Home",
+        "services": "Services",
+        "howItWorks": "How It Works",
+        "about": "About",
+        "contact": "Contact",
+        "dashboard": "Dashboard",
+        "signIn": "Sign In",
+        "signOut": "Sign Out",
+        "joinAsFreelancer": "Join as Freelancer",
+        "profile": "Profile",
+        "orders": "Orders",
+        "messages": "Messages",
+        "wallet": "Wallet",
+        "help": "Help & Support"
+    },
+    "auth": {
+        "welcome": "Welcome",
+        "freelancer": "Freelancer",
+        "client": "Client",
+        "welcomeBack": "Welcome back",
+        "loginDescription": "Sign in to your account to access the platform and manage your projects.",
+        "loginSubtitle": "Enter your credentials to access your dashboard",
+        "forgotPassword": "Forgot password?",
+        "rememberMe": "Remember me",
+        "signingIn": "Signing in...",
+        "noAccount": "Don't have an account ?",
+        "register": "Register",
+        "validation": {
+            "email": {
+                "required": "Email address is required",
+                "invalid": "Please enter a valid email address",
+                "max": "Email must be less than 255 characters"
+            },
+            "password": {
+                "required": "Password is required",
+                "min": "Password must be at least 1 character"
+            }
+        },
+        "errors": {
+            "failed": "These credentials do not match our records.",
+            "throttle": "Too many login attempts. Please try again in :seconds seconds.",
+            "general": "An unexpected error occurred. Please try again.",
+            "network": "Network error. Please check your connection and try again.",
+            "server": "Server error. Please try again later.",
+            "invalidCredentials": "Invalid email or password.",
+            "accountLocked": "Your account has been temporarily locked due to too many failed attempts.",
+            "accountInactive": "Your account is inactive. Please contact support."
+        },
+        "success": {
+            "loginSuccessful": "Login successful!",
+            "redirecting": "Redirecting to dashboard..."
+        }
+    },
+    "common": {
+        "pagination": {
+            "navigation": "التنقل بين الصفحات",
+            "previous": "السابق",
+            "next": "التالي",
+            "go_to_page": "انتقل إلى الصفحة {page}",
+            "page": "صفحة",
+            "of": "من"
+        },
+        "loading": "Loading...",
+        "save": "Save",
+        "saving": "Saving...",
+        "create": "Create",
+        "creating": "Creating...",
+        "update": "Update",
+        "updating": "Updating...",
+        "delete": "Delete",
+        "deleting": "Deleting...",
+        "deleteConfirmation": "Delete Confirmation",
+        "deleteWarning": "This action cannot be undone. This will permanently delete the item and all associated data.",
+        "cancel": "Cancel",
+        "close": "Close",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "submit": "Submit",
+        "submitting": "Submitting...",
+        "search": "Search",
+        "filter": "Filter",
+        "clear": "Clear",
+        "reset": "Reset",
+        "apply": "Apply",
+        "confirm": "Confirm",
+        "yes": "Yes",
+        "no": "No",
+        "ok": "OK",
+        "error": "Error",
+        "success": "Success",
+        "warning": "Warning",
+        "info": "Information",
+        "english": "English",
+        "arabic": "العربية",
+        "actions": "Actions",
+        "openMenu": "Open menu",
+        "view": "View",
+        "edit": "Edit",
+        "duplicate": "Duplicate",
+        "delete": "Delete",
+        "previous": "Previous",
+        "next": "Next",
+        "cancel": "Cancel",
+        "submitting": "Submitting...",
+        "na": "N/A",
+        "selectAll": "Select all",
+        "selectRow": "Select row"
+    },
+    "hero": {
+        "trustBadge": "Verified Sudanese Freelancers",
+        "headline": "Find Trusted Sudanese",
+        "headline2": "Freelancers in Seconds",
+        "subheading": "Get your job done by verified professionals. Join Sudan's premier freelance marketplace connecting talent with opportunity.",
+        "searchPlaceholder": "What do you need? (e.g., logo design, web development)",
+        "search": "Search",
+        "startExploring": "Start Exploring",
+        "postJob": "Post a Job",
+        "goToDashboard": "Go to Dashboard",
+        "trustIndicator1": "100+ Verified Freelancers",
+        "trustIndicator2": "Secure Payments",
+        "trustIndicator3": "24/7 Support",
+        "imagePlaceholder": "Sudanese Freelancers at Work",
+        "activeUsers": "Active Users",
+        "rating": "Rating",
+        "popular": "Popular",
+        "popularServices": {
+            "webDevelopment": "Web Development",
+            "graphicDesign": "Graphic Design",
+            "contentWriting": "Content Writing",
+            "translation": "Translation",
+            "digitalMarketing": "Digital Marketing",
+            "videoEditing": "Video Editing"
+        }
+    },
+    "services": {
+        "badge": "Our Services",
+        "title": "Explore Popular",
+        "titleHighlight": "Freelance Categories",
+        "subtitle": "Discover talented Sudanese professionals across diverse categories. From creative design to technical development, find the perfect match for your project.",
+        "popular": "Popular",
+        "freelancerCount": "50+ Freelancers",
+        "viewAll": "View All Services",
+        "categories": {
+            "webDevelopment": {
+                "title": "Web Development",
+                "description": "Build modern websites and web applications with our skilled developers"
+            },
+            "graphicDesign": {
+                "title": "Graphic Design",
+                "description": "Professional design services for logos, branding, and marketing materials"
+            },
+            "contentWriting": {
+                "title": "Content Writing",
+                "description": "Engaging written content for websites, blogs, and marketing campaigns"
+            },
+            "digitalMarketing": {
+                "title": "Digital Marketing",
+                "description": "Grow your business with targeted online marketing strategies"
+            },
+            "translation": {
+                "title": "Translation",
+                "description": "Accurate translation services between multiple languages"
+            },
+            "videoEditing": {
+                "title": "Video Editing",
+                "description": "Professional video production and post-production services"
+            },
+            "mobileDevelopment": {
+                "title": "Mobile Development",
+                "description": "Create powerful mobile applications for iOS and Android"
+            },
+            "dataEntry": {
+                "title": "Data Entry",
+                "description": "Efficient and accurate data processing services"
+            }
+        },
+        "featured": "Featured",
+        "pageTitle": "Services - Anjez Platform",
+        "heroTitle": "Find the Perfect",
+        "heroHighlight": "Freelance Service",
+        "heroSubtitle": "Browse professional services from verified freelancers. Get your project done with quality and reliability.",
+        "searchPlaceholder": "Search for services, freelancers, or skills...",
+        "search": "Search",
+        "filters": "Filters",
+        "filtersDescription": "Refine your search results",
+        "category": "Category",
+        "allCategories": "All Categories",
+        "subcategory": "Subcategory",
+        "allSubcategories": "All Subcategories",
+        "priceRange": "Price Range",
+        "anyPrice": "Any Price",
+        "deliveryTime": "Delivery Time",
+        "anyTime": "Any Time",
+        "clearFilters": "Clear",
+        "sortBy": "Sort by",
+        "mostPopular": "Most Popular",
+        "highestRated": "Highest Rated",
+        "priceLowToHigh": "Price: Low to High",
+        "priceHighToLow": "Price: High to Low",
+        "fastestDelivery": "Fastest Delivery",
+        "showing": "Showing",
+        "results": "results",
+        "noServicesFound": "No services found",
+        "tryAdjusting": "Try adjusting your search criteria or filters",
+        "orders": "orders",
+        "unknownFreelancer": "Unknown",
+        "locationUnknown": "Location unknown",
+        "orderNow": "Order Now",
+        "startingPrice": "Starting Price",
+        "revisions": "Revisions",
+        "aboutThisService": "About This Service",
+        "showLess": "Show Less",
+        "readMore": "Read More",
+        "whatYoullGet": "What You'll Get",
+        "faq": "Frequently Asked Questions",
+        "reviews": "Reviews",
+        "successRate": "Success Rate",
+        "onTime": "On Time",
+        "repeatClients": "Repeat Clients",
+        "viewProfile": "View Profile",
+        "choosePackage": "Choose Your Package",
+        "popular": "Popular",
+        "servicePrice": "Service Price",
+        "deliveryIn": "Delivery in",
+        "moreFeatures": "more features",
+        "browseAll": "Browse All Services",
+        "viewDetails": "View Details",
+        "moreFromFreelancer": "More Services from",
+        "thisFreelancer": "This Freelancer",
+        "exploreOtherServices": "Explore other services offered by this freelancer",
+        "whatClientsSay": "What Our Clients Say",
+        "realFeedback": "Real feedback from satisfied customers",
+        "staticReview1": "\"Excellent work! The landing page exceeded my expectations. Very professional and responsive. The freelancer was communicative throughout the process and delivered exactly what I needed.\"",
+        "staticReviewer1": "Sarah M.",
+        "staticReviewProject1": "E-commerce Landing Page",
+        "staticReview2": "\"Great communication and delivered exactly what I needed. The freelancer was very professional and the quality of work was outstanding. Highly recommended!\"",
+        "staticReviewer2": "Mohammed K.",
+        "staticReviewProject2": "Service Business Website",
+        "staticReview3": "\"Good quality work and delivered on time. The design is clean and modern, exactly what I was looking for. Will definitely work with this freelancer again.\"",
+        "staticReviewer3": "Fatima A.",
+        "staticReviewProject3": "Startup Landing Page",
+        "service": "Service",
+        "freelancer": "Freelancer",
+        "status": "Status",
+        "price": "Price"
+    },
+    "features": {
+        "badge": "Why Choose Anjez",
+        "title": "Built for Sudanese",
+        "titleHighlight": "Freelancers & Clients",
+        "subtitle": "A platform designed specifically for the Sudanese market, combining local expertise with global standards to deliver exceptional results.",
+        "verified": {
+            "title": "Verified Professionals",
+            "description": "Every freelancer is thoroughly vetted with identity verification and skill assessments.",
+            "highlight": "100% Verified"
+        },
+        "community": {
+            "title": "Local Community",
+            "description": "Connect with Sudanese talent who understand your culture, language, and business needs.",
+            "highlight": "Sudanese Focus"
+        },
+        "global": {
+            "title": "Global Standards",
+            "description": "Access world-class quality while supporting local talent with international payment methods.",
+            "highlight": "Global Quality"
+        }
+    },
+    "benefits": {
+        "cost": {
+            "title": "Competitive Pricing",
+            "description": "Get quality work at local market rates without compromising on standards."
+        },
+        "quality": {
+            "title": "Quality Guarantee",
+            "description": "All work comes with a satisfaction guarantee and revision policy."
+        },
+        "security": {
+            "title": "Secure Payments",
+            "description": "Your payments are protected with escrow and only released when you're satisfied."
+        }
+    },
+    "home": {
+        "hero": {
+            "title": "Find the perfect freelancer for your project",
+            "subtitle": "Connect with talented professionals and get your work done efficiently",
+            "getStarted": "Get Started",
+            "learnMore": "Learn More"
+        },
+        "services": {
+            "title": "Our Services",
+            "subtitle": "We offer a wide range of services to meet your needs"
+        },
+        "howItWorks": {
+            "title": "How It Works",
+            "step1": "Post your project",
+            "step2": "Get proposals",
+            "step3": "Choose and pay"
+        },
+        "about": {
+            "title": "About Anjez",
+            "description": "Anjez is a platform that connects talented freelancers with clients who need their services."
+        },
+        "contact": {
+            "title": "Contact Us",
+            "description": "Get in touch with us for any questions or support.",
+            "sections": {
+                "form": {
+                    "heading": "Send us a message",
+                    "success": "Thank you! Your message has been sent successfully. We'll get back to you soon.",
+                    "fields": {
+                        "name": "Full Name",
+                        "email": "Email Address",
+                        "subject": "Subject",
+                        "message": "Message",
+                        "submit": "Send Message"
+                    }
+                },
+                "info": {
+                    "heading": "Contact Information",
+                    "items": [
+                        {
+                            "icon": "mail",
+                            "title": "Email",
+                            "value": "angez.platform@outlook.com"
+                        },
+                        {
+                            "icon": "clock",
+                            "title": "Business Hours",
+                            "value": "Monday - Friday: 9:00 AM - 6:00 PM"
+                        },
+                        {
+                            "icon": "support",
+                            "title": "Support",
+                            "value": "24/7 Customer Support Available"
+                        }
+                    ]
+                },
+                "social": {
+                    "heading": "Follow Us",
+                    "items": [
+                        {
+                            "icon": "facebook",
+                            "name": "Facebook"
+                        },
+                        {
+                            "icon": "twitter",
+                            "name": "Twitter"
+                        },
+                        {
+                            "icon": "linkedin",
+                            "name": "LinkedIn"
+                        }
+                    ]
+                }
+            },
+            "validation": {
+                "name": {
+                    "min": "Name must be at least 2 characters",
+                    "max": "Name must be less than 255 characters"
+                },
+                "email": {
+                    "invalid": "Please enter a valid email address",
+                    "max": "Email must be less than 255 characters"
+                },
+                "subject": {
+                    "min": "Subject must be at least 5 characters",
+                    "max": "Subject must be less than 255 characters"
+                },
+                "message": {
+                    "min": "Message must be at least 10 characters",
+                    "max": "Message must be less than 2000 characters"
+                }
+            },
+            "errors": {
+                "general": "Something went wrong. Please try again.",
+                "server": "There was an error sending your message. Please try again."
+            }
+        }
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "overview": "Overview",
+        "projects": "Projects",
+        "messages": "Messages",
+        "earnings": "Earnings",
+        "settings": "Settings",
+        "welcome": "Welcome back",
+        "orders_today": "Here's what's happening with your orders today",
+        "active_orders": "Active Orders",
+        "currently_in_progress": "Currently in progress",
+        "completed_orders": "Completed Orders",
+        "all_time_completed": "All time completed",
+        "total_spent": "Total Spent",
+        "across_all_orders": "Across all orders",
+        "recent_orders": "Recent Orders",
+        "latest_transactions_status": "Your latest transactions and their status",
+        "view_all_orders": "View all orders",
+        "service": "Service",
+        "freelancer": "Freelancer",
+        "amount": "Amount",
+        "status": "Status",
+        "date": "Date",
+        "no_orders_yet": "No orders yet",
+        "get_started_first_order": "Get started by placing your first order",
+        "browse_services": "Browse Services",
+        "order_status_distribution": "Order Status Distribution",
+        "breakdown_orders_status": "Breakdown of your orders by status",
+        "no_order_data_available": "No order data available",
+        "recent_activity": "Recent Activity",
+        "latest_account_updates": "Latest updates on your account",
+        "no_recent_activity": "No recent activity",
+        "quickActions": {
+            "find_services": {
+                "title": "Find Services",
+                "description": "Browse and order new freelance services"
+            },
+            "my_orders": {
+                "title": "My Orders",
+                "description": "View and manage your orders"
+            },
+            "messages": {
+                "title": "Messages",
+                "description": "Chat with freelancers"
+            }
+        }
+    },
+    "dashboardFreelancer": {
+        "welcome": "Welcome back, {{name}}! 👋",
+        "subtitle": "Here's what's happening with your freelance business today.",
+        "cards": {
+            "totalRevenue": "Total Revenue",
+            "activeOrders": "Active Orders",
+            "totalClients": "Total Clients",
+            "averageRating": "Average Rating",
+            "currency": "SDG",
+            "revenueDesc": "+{{percent}} from last month",
+            "revenueDescNew": "New earnings this month",
+            "revenueDescNoGrowth": "No change from last month",
+            "activeOrdersDesc": "{{count}} pending delivery",
+            "clientsDesc": "+{{percent}} from last month",
+            "clientsDescNew": "New clients this month",
+            "clientsDescNoGrowth": "No change from last month",
+            "ratingDesc": "Based on {{count}} reviews"
+        },
+        "quickActions": {
+            "createService": {
+                "title": "Create Service",
+                "desc": "Add a new service to your portfolio"
+            },
+            "viewOrders": {
+                "title": "View Orders",
+                "desc": "Check your current orders"
+            },
+            "messages": {
+                "title": "Messages",
+                "desc": "Respond to client messages"
+            },
+            "analytics": {
+                "title": "Analytics",
+                "desc": "View detailed analytics"
+            }
+        },
+        "recentActivities": {
+            "title": "Recent Activities",
+            "desc": "Your latest business activities and updates",
+            "order": "New order received",
+            "orderDesc": "{{project}} from {{client}}",
+            "payment": "Payment received",
+            "paymentDesc": "{{amount}} for {{project}}",
+            "message": "New message",
+            "messageDesc": "{{client}} sent a message about {{project}}",
+            "review": "New review",
+            "reviewDesc": "{{rating}}-star review from {{client}}",
+            "timeAgo": "{{time}} ago",
+            "status": {
+                "completed": "Completed",
+                "pending": "Pending",
+                "unread": "Unread",
+                "unknown": "Unknown"
+            },
+            "viewAll": "View All Activities",
+            "noActivities": "No recent activities"
+        },
+        "deadlines": {
+            "title": "Upcoming Deadlines",
+            "desc": "Projects due in the next 7 days",
+            "urgent": "Urgent",
+            "onTrack": "On Track",
+            "planned": "Planned",
+            "viewCalendar": "View Calendar",
+            "noDeadlines": "No upcoming deadlines",
+            "today": "Today",
+            "tomorrow": "Tomorrow",
+            "daysLeft": "{{count}} days left"
+        },
+        "activities": {
+            "newOrder": "New order received",
+            "newReview": "New review",
+            "paymentReceived": "Payment received",
+            "newMessage": "New message",
+            "from": "from",
+            "for": "for",
+            "reviewFrom": "review from",
+            "sentMessageAbout": "sent a message about"
+        }
+    },
+    "forms": {
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "name": "Name",
+        "phone": "Phone",
+        "message": "Message",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "save": "Save",
+        "edit": "Edit",
+        "delete": "Delete",
+        "emailLabel": "Email address",
+        "emailPlaceholder": "you@example.com",
+        "passwordLabel": "Password"
+    },
+    "validation": {
+        "required": "This field is required",
+        "email": "Please enter a valid email address",
+        "minLength": "Must be at least {{min}} characters",
+        "maxLength": "Must be no more than {{max}} characters",
+        "passwordMatch": "Passwords must match"
+    },
+    "wallet": {
+        "title": "Wallet",
+
+        "paid": "Paid",
+        "credit": "Credit",
+        "payout_request": "Payout Request",
+        "payout_approved": "Payout Approved",
+        "payout_rejected": "Payout Rejected",
+        "payout_request_submitted": "Payout request submitted successfully",
+
+        "current_balance": "Current Balance",
+        "available_funds": "Available funds for withdrawal",
+        "last_updated": "Last updated",
+        "request_payout": "Request Payout",
+        "amount": "Amount",
+        "enter_amount": "Enter amount",
+        "available_balance": "Available balance",
+        "bank_details": "Bank Account Details",
+        "enter_bank_details": "Enter your bank account details",
+        "minimum_payout_notice": "Minimum {{amount}} SDG required for payout request",
+        "transaction_history": "Transaction History",
+        "description": "Description",
+        "date": "Date",
+        "status": "Status",
+        "no_transactions": "No transactions yet",
+        "payout_requests": "Payout Requests",
+        "requested": "Requested",
+        "payment_completed": "Payment completed",
+        "amount_not_specified": "Amount not specified",
+        "not_provided": "Not provided",
+        "payment_details": "Payment Details",
+        "paid_on": "Paid on",
+        "reference": "Reference",
+        "payment_proof": "Payment Proof Available",
+        "view_proof": "View Proof",
+        "admin_notes": "Admin Notes",
+        "no_payout_requests": "No payout requests yet",
+        "submitting": "Submitting...",
+        "submit_request": "Submit Request",
+        "transactions": {
+            "type": "Type",
+            "amount": "Amount",
+            "description": "Description",
+            "date": "Date",
+            "noTransactions": "No transactions found.",
+            "types": {
+                "credit": "Credit",
+                "debit": "Debit",
+                "payout_request": "Payout Request",
+                "payout_approved": "Payout Approved",
+                "payout_rejected": "Payout Rejected",
+                "payout_paid": "Payout Paid",
+                "manual_credit": "Manual Credit",
+                "manual_debit": "Manual Debit",
+                "service_payment": "Service Payment",
+                "refund": "Refund",
+                "other": "Other"
+            }
+        }
+    },
+    "header": {
+        "notifications": "Notifications",
+        "new_order_received": "New order received",
+        "new_order_description": "You have a new order for web development project",
+        "payment_received": "Payment received",
+        "payment_description": "Payment of $500 has been received",
+        "client_message": "Client message",
+        "client_message_description": "New message from client regarding project",
+        "toggle_sidebar": "Toggle sidebar",
+        "breadcrumbs": {
+            "dashboard": "Dashboard",
+            "my_services": "My Services",
+            "services": "Services",
+            "orders": "Orders",
+            "messages": "Messages",
+            "wallet": "Wallet",
+            "profile": "Profile",
+            "settings": "Settings",
+            "admin": "Admin",
+            "users": "Users",
+            "payments": "Payments",
+            "reports": "Reports",
+            "freelancers": "Freelancers",
+            "clients": "Clients",
+            "chat": "Chat",
+            "create": "Create",
+            "edit": "Edit",
+            "view": "View",
+            "manage": "Manage",
+            "analytics": "Analytics",
+            "transactions": "Transactions",
+            "payouts": "Payouts",
+            "notifications": "Notifications"
+        },
+        "language": {
+            "select_language": "Select Language",
+            "english": "English",
+            "arabic": "Arabic",
+            "changing": "Changing language...",
+            "current_language": "Current Language",
+            "language_changed": "Language changed successfully",
+            "language_change_failed": "Failed to change language"
+        }
+    },
+    "howItWorks": {
+        "badge": "Simple Process",
+        "title": "How It Works",
+        "titleHighlight": "In 3 Easy Steps",
+        "subtitle": "Get your project completed quickly and efficiently with our streamlined process. From finding services to payment, we've made it simple for both clients and freelancers.",
+        "steps": {
+            "step1": {
+                "title": "Find Your Service",
+                "description": "Browse through our comprehensive categories and search for the specific skills you need. View detailed freelancer profiles with ratings and reviews.",
+                "details": {
+                    "0": "Browse service categories",
+                    "1": "Search for specific skills",
+                    "2": "View freelancer profiles",
+                    "3": "Compare ratings and reviews"
+                }
+            },
+            "step2": {
+                "title": "Fill Project Details",
+                "description": "Describe your project requirements, set your budget and timeline, and upload any necessary files. Our smart system will match you with the best freelancers.",
+                "details": {
+                    "0": "Describe your project needs",
+                    "1": "Set budget and timeline",
+                    "2": "Upload project files",
+                    "3": "Review and submit"
+                }
+            },
+            "step3": {
+                "title": "Secure Payment",
+                "description": "Pay securely through our platform with milestone-based payments. Your money is protected until you're completely satisfied with the final result.",
+                "details": {
+                    "0": "Secure payment processing",
+                    "1": "Milestone-based payments",
+                    "2": "Quality guarantee",
+                    "3": "Satisfaction guarantee"
+                }
+            }
+        },
+        "cta": {
+            "title": "Ready to Get Started?",
+            "subtitle": "Join thousands of satisfied clients and freelancers on Anjez",
+            "postJob": "Post a Job",
+            "browseFreelancers": "Browse Freelancers"
+        },
+        "stats": {
+            "projects": "10,000+",
+            "projectsLabel": "Projects Completed",
+            "freelancers": "500+",
+            "freelancersLabel": "Verified Freelancers",
+            "satisfaction": "98%",
+            "satisfactionLabel": "Client Satisfaction"
+        }
+    },
+    "footer": {
+        "description": "Anjez is Sudan's premier freelance marketplace, connecting talented professionals with clients who need their services. Join our growing community today.",
+        "newsletter": {
+            "title": "Stay Updated",
+            "subtitle": "Get the latest updates and opportunities delivered to your inbox",
+            "placeholder": "Enter your email address",
+            "button": "Subscribe",
+            "success": "Successfully subscribed!",
+            "error": "Please enter a valid email"
+        },
+        "links": {
+            "company": {
+                "title": "Company",
+                "about": "About Us",
+                "careers": "Careers",
+                "press": "Press",
+                "blog": "Blog"
+            },
+            "services": {
+                "title": "Services",
+                "webDevelopment": "Web Development",
+                "graphicDesign": "Graphic Design",
+                "contentWriting": "Content Writing",
+                "digitalMarketing": "Digital Marketing",
+                "translation": "Translation",
+                "videoEditing": "Video Editing"
+            },
+            "support": {
+                "title": "Support",
+                "help": "Help Center",
+                "contact": "Contact Us",
+                "safety": "Safety Center",
+                "community": "Community Guidelines"
+            },
+            "legal": {
+                "title": "Legal",
+                "terms": "Terms of Service",
+                "privacy": "Privacy Policy",
+                "cookies": "Cookie Policy",
+                "disclaimer": "Disclaimer"
+            }
+        },
+        "social": {
+            "title": "Follow Us",
+            "facebook": "Facebook",
+            "twitter": "Twitter",
+            "instagram": "Instagram",
+            "linkedin": "LinkedIn",
+            "youtube": "YouTube"
+        },
+        "bottom": {
+            "copyright": "© {{year}} Anjez Platform. All rights reserved.",
+            "madeBy": "Made by Aziz",
+            "language": "Language"
+        }
+    },
+    "servicesOrder": {
+        "backToService": "Back to Service",
+        "orderDetails": "Order Details",
+        "selectPackage": "Select Package",
+        "popular": "Popular",
+        "deliveryIn": "Delivery in",
+        "revisions": "revisions",
+        "servicePrice": "Service Price",
+        "standard": "Standard",
+        "projectRequirements": "Project Requirements",
+        "requirementN": "Requirement #{{n}}",
+        "addRequirement": "+ Add Requirement",
+        "additionalNotes": "Additional Notes (Optional)",
+        "additionalNotesPlaceholder": "Any additional information or special requests...",
+        "agreeToTerms": "I agree to the",
+        "termsAndConditions": "Terms and Conditions",
+        "privacyPolicy": "Privacy Policy",
+        "and": "and",
+        "processing": "Processing...",
+        "placeOrderSecurely": "Place Order Securely",
+        "serviceDetails": "Service Details",
+        "orderSummary": "Order Summary",
+        "packagePrice": "Package Price:",
+        "total": "Total:",
+        "securePayment": "Secure Payment",
+        "securePaymentDesc": "Your payment is protected by our secure payment system",
+        "locationNotSpecified": "Location not specified",
+        "reviews": "reviews",
+        "pleaseAgree": "Please agree to the terms and conditions"
+    },
+    "servicesShow": {
+        "share": {
+            "share": "Share this service",
+            "copyLink": "Copy Link",
+            "copied": "Copied!"
+        }
+    },
+    "ordersConfirmation": {
+        "pageTitle": "Order Confirmation - {{order_number}}",
+        "backToOrders": "Back to Orders",
+        "paymentProofSubmitted": "Payment Proof Submitted!",
+        "paymentProofSubmittedDesc": "Thank you for submitting your payment proof. We will verify your payment within 24 hours. You can now proceed to chat with your freelancer to discuss your order details.",
+        "goToChat": "Go to Chat",
+        "nextSteps": "Next steps:",
+        "waitForVerification": "Wait for payment verification (usually within 24 hours).",
+        "discussInChat": "Discuss your order with the freelancer in chat.",
+        "workBegins": "Once payment is verified, the freelancer will start working.",
+        "orderInformation": "Order Information",
+        "orderNumber": "Order Number",
+        "orderDate": "Order Date",
+        "package": "Package",
+        "dueDate": "Due Date",
+        "requirements": "Requirements",
+        "additionalNotes": "Additional Notes",
+        "serviceDetails": "Service Details",
+        "service": "Service",
+        "freelancer": "Freelancer",
+        "paymentInformation": "Payment Information",
+        "packagePrice": "Package Price",
+        "serviceFee": "Service Fee (10%)",
+        "total": "Total",
+        "paymentMethod": "Payment Method",
+        "uploadPaymentProof": "Upload Payment Proof",
+        "paymentRequired": "Payment Required",
+        "uploadPaymentProofDesc": "Please upload your payment proof to proceed with the order.",
+        "transactionReference": "Transaction Reference",
+        "enterTransactionReference": "Enter transaction reference number",
+        "paymentScreenshot": "Payment Screenshot",
+        "selectedFile": "Selected: {{filename}}",
+        "uploading": "Uploading...",
+        "submitPaymentProof": "Submit Payment Proof",
+        "cancel": "Cancel",
+        "paymentDetails": "Payment Details",
+        "viewScreenshot": "View Screenshot",
+        "paymentStatus": "Payment Status",
+        "nextStepsTitle": "Next Steps",
+        "uploadPaymentProofStep": "Upload Payment Proof",
+        "submitYourPaymentScreenshot": "Submit your payment screenshot",
+        "paymentVerification": "Payment Verification",
+        "verifyWithin24h": "We'll verify your payment within 24 hours",
+        "workBeginsStep": "Work Begins",
+        "freelancerStartsWork": "Freelancer starts working on your project",
+        "needHelp": "Need Help?",
+        "contactSupportDesc": "If you have any questions about your order, please contact our support team.",
+        "contactSupport": "Contact Support"
+    },
+    "ordersDetails": {
+        "title": "Order Details",
+        "description": "Full details and actions for your order.",
+        "status": "Order Status",
+        "paymentStatus": "Payment Status",
+        "totalAmount": "Total Amount",
+        "orderDetails": "Order Details",
+        "placedOn": "Placed on",
+        "dueDate": "Due Date",
+        "paymentProof": "Payment Proof",
+        "viewProof": "View Proof",
+        "notUploaded": "Not uploaded",
+        "paymentRequired": "Payment Required",
+        "uploadPaymentDescription": "Please upload your payment proof to proceed with the order.",
+        "transactionRef": "Transaction Reference",
+        "paymentScreenshot": "Payment Screenshot",
+        "uploadProof": "Upload Proof",
+        "uploadPayment": "Upload Payment",
+        "downloadDetails": "Download Details"
+    },
+    "orders": {
+        "chatClosedTitle": "Chat Closed",
+        "reviewPendingTitle": "Review Pending",
+        "status": {
+            "pending": "Pending",
+            "payment_verified": "Payment Verified",
+            "in_progress": "In Progress",
+            "review": "In Review",
+            "completed": "Completed",
+            "cancelled": "Cancelled"
+        },
+        "paymentStatus": {
+            "verified": "Verified",
+            "pending": "Pending",
+            "failed": "Failed"
+        },
+        "chatClosed": "Chat is closed for this order.",
+        "leaveReview": "Leave Review",
+        "waitingForReview": "Waiting for client review."
+    },
+    "reviews": {
+        "title": "Order Review",
+        "rating": "Rating",
+        "comment": "Comment",
+        "submit": "Submit Review",
+        "submitting": "Submitting...",
+        "submitted": "Review submitted!",
+        "comment_placeholder": "Write your review here...",
+        "comment_required": "Comment is required",
+        "comment_min_length": "Comment must be longer than 10 characters",
+        "comment_max_length": "Comment must be shorter than 2000 characters",
+        "submitError": "Failed to submit review.",
+        "created_successfully": "Review created successfully.",
+        "delete_success": "Review deleted successfully.",
+        "delete_error": "Failed to delete review.",
+        "leave_review": "Leave a Review",
+        "thank_you": "Thank you for your feedback!",
+        "submission_failed": "Review submission failed.",
+        "anonymous": "Anonymous"
+    },
+    "ordersList": {
+        "description": "View and manage all your orders",
+        "newOrder": "New Order",
+        "searchPlaceholder": "Search orders...",
+        "filterStatus": "Filter by status",
+        "allStatuses": "All Statuses",
+        "filterPayment": "Filter by payment",
+        "allPayments": "All Payments",
+        "showingResults": "Showing {{count}} of {{total}} results",
+        "paymentStatus": "Payment Status",
+        "uploadPayment": "Upload Payment",
+        "leaveReview": "Leave Review",
+        "emptyTitle": "No orders found",
+        "emptyDescription": "Get started by placing your first order",
+        "openMenu": "Open menu",
+        "service": "Service",
+        "freelancer": "Freelancer",
+        "status": "Status",
+        "price": "Price",
+        "confirmCompletion": "Confirm Completion",
+        "requestRevision": "Request Revision"
+    },
+    "chatList": {
+        "title": "Order Messages",
+        "orderStatus": "Order Status",
+        "filterByOrderStatus": "Filter by order status",
+        "allOrders": "All Orders",
+        "subtitle": "Communicate with your clients/freelancers",
+        "searchPlaceholder": "Search by name or order #...",
+        "noConversations": "No conversations found",
+        "tryDifferentSearch": "Try a different search",
+        "emptyState": "When you have orders, they'll appear here",
+        "finalDeliverySubmitted": "Final delivery submitted",
+        "noMessagesYet": "No messages yet"
+    },
+    "chatIndex": {
+        "title": "Order #{{order}} - Messages",
+        "orderNotFoundTitle": "Order not found",
+        "viewOrderDetails": "View Order Details",
+        "orderNotFoundDesc": "The order you're trying to access doesn't exist or you don't have permission to view it.",
+        "unknownUser": "Unknown User",
+        "downloadFile": "Download File",
+        "read": "Read",
+        "sent": "Sent",
+        "orderStatus": "Order Status",
+        "orderNumber": "Order #{{order}}",
+        "deliverWork": "Deliver Work",
+        "uploading": "Uploading...",
+        "attachFile": "Attach file",
+        "messagePlaceholder": "Type your message...",
+        "download": "Download",
+        "workDelivered": "Work delivered successfully",
+        "failedDeliverWork": "Failed to deliver work",
+        "revisionRequested": "Revision requested",
+        "failedRequestRevision": "Failed to request revision",
+        "orderCompleted": "Order marked as completed",
+        "failedConfirmCompletion": "Failed to confirm completion",
+        "chatDisabled": "Chat is disabled",
+
+        "disabledReasonCompleted": "Chat is disabled because the order is completed.",
+        "disabledReasonCancelled": "Chat is disabled because the order was cancelled.",
+        "disabledReasonPaymentFailed": "Chat is disabled because payment failed.",
+        "disabledReasonGeneric": "Chat is currently disabled for this order.",
+        "chatDisabledPlaceholder": "Chat is disabled for this order."
+    },
+    "register": {
+        "title": "Create your account",
+        "subtitle": "Join Anjez Platform and start your journey",
+        "platformTitle": "The Modern Sudanese Freelance Platform",
+        "platformDesc": "Connecting clients and freelancers with secure, paperless, and trusted service delivery tailored for Sudan.",
+        "rights": "All rights reserved © Anjez {{year}}",
+        "fullName": "Full Name",
+        "fullNamePlaceholder": "Your full name",
+        "emailLabel": "Email Address",
+        "emailPlaceholder": "you@email.com",
+        "phoneLabel": "Phone Number",
+        "phonePlaceholder": "e.g. +249111......",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "show": "Show",
+        "hide": "Hide",
+        "roleLabel": "I want to join as",
+        "rolePlaceholder": "Select your role",
+        "client": "Client",
+        "freelancer": "Freelancer",
+        "termsPrefix": "I agree to the ",
+        "terms": "Terms of Service",
+        "and": " and ",
+        "privacy": "Privacy Policy",
+        "button": "Create Account",
+        "registering": "Creating account...",
+        "alreadyAccount": "Already have an account?",
+        "login": "Sign in",
+        "valueProps": [
+            "Secure payments and escrow protection",
+            "Fast delivery with quality assurance",
+            "Verified Sudanese freelancers",
+            "24/7 customer support"
+        ],
+        "validation": {
+            "name": {
+                "required": "Full name is required",
+                "min": "Name must be at least 2 characters",
+                "max": "Name must be less than 255 characters"
+            },
+            "email": {
+                "required": "Email address is required",
+                "invalid": "Please enter a valid email address",
+                "unique": "This email is already registered",
+                "max": "Email must be less than 255 characters"
+            },
+            "phone": {
+                "max": "Phone number must be less than 20 characters"
+            },
+            "password": {
+                "required": "Password is required",
+                "min": "Password must be at least 8 characters",
+                "mixedCase": "Password must contain both uppercase and lowercase letters",
+                "letters": "Password must contain letters",
+                "numbers": "Password must contain numbers",
+                "symbols": "Password must contain at least one symbol",
+                "uncompromised": "This password has been compromised. Please choose a different one"
+            },
+            "password_confirmation": {
+                "required": "Please confirm your password",
+                "mismatch": "Passwords do not match"
+            },
+            "role": {
+                "required": "Please select your role",
+                "invalid": "Please select a valid role"
+            },
+            "terms": {
+                "required": "You must accept the terms and conditions"
+            }
+        },
+        "errors": {
+            "general": "An unexpected error occurred. Please try again.",
+            "database": "A database error occurred. Please try again or contact support.",
+            "emailExists": "This email is already registered.",
+            "network": "Network error. Please check your connection and try again.",
+            "server": "Server error. Please try again later."
+        },
+        "success": {
+            "accountCreated": "Account created successfully!",
+            "redirecting": "Redirecting to dashboard..."
+        }
+    },
+    "freelancerServices": {
+        "title": "My Services",
+        "description": "Manage and track all your services",
+        "addNew": "Add New Service",
+        "servicesList": "Services List",
+        "totalServices": "Total Services",
+        "activeServices": "Active Services",
+        "popularServices": "Popular Services",
+        "featuredServices": "Featured Services",
+        "of": "of",
+        "services": "services",
+        "resetFilters": "Reset Filters",
+        "searchPlaceholder": "Search services...",
+        "noServicesFound": "No services found",
+        "noRating": "No rating yet",
+        "deleteConfirm": "Are you sure you want to delete this service?",
+        "deleteWarning": "This action cannot be undone. This will permanently delete the service and all associated data.",
+        "deleteSuccess": "Service deleted successfully!",
+        "deleteError": "Cannot delete service because it has associated paid orders. Please cancel the orders first.",
+        "deleteGenericError": "An error occurred while deleting the service. Please try again.",
+        "table": {
+            "title": "Title",
+            "category": "Category",
+            "price": "Price",
+            "deliveryTime": "Delivery Time",
+            "status": "Status",
+            "rating": "Rating",
+            "orders": "Orders",
+            "created": "Created",
+            "actions": "Actions"
+        },
+        "status": {
+            "active": "Active",
+            "popular": "Popular",
+            "featured": "Featured"
+        },
+        "language": {
+            "en": "English",
+            "ar": "العربية",
+            "both": "Both"
+        }
+    },
+    "freelancerServiceCreate": {
+        "pageTitle": "Add New Service",
+        "pageDescription": "Create a new service to showcase your skills and attract clients",
+        "createService": "Create Service",
+        "creating": "Saving ...",
+        "primaryInfo": "Primary Information (English)",
+        "arabicContent": "Arabic Content (Optional)",
+        "arabicContentDesc": "Adding Arabic content will help you reach a wider audience in the region. All fields are optional.",
+        "hasContent": "Has content",
+        "wantToAddArabic": "Want to add Arabic version for wider audience?",
+        "fields": {
+            "title": {
+                "label": "Title",
+                "placeholder": "Enter service title",
+                "description": "A clear, descriptive title for your service"
+            },
+            "description": {
+                "label": "Description",
+                "placeholder": "Describe your service",
+                "description": "Brief overview of what you offer"
+            },
+            "detailedDescription": {
+                "label": "Detailed Description",
+                "placeholder": "Provide detailed information about your service",
+                "description": "Comprehensive explanation of your service, process, and deliverables"
+            },
+            "category": {
+                "label": "Category",
+                "placeholder": "e.g., Web Development",
+                "description": "Main category that best describes your service"
+            },
+            "subcategory": {
+                "label": "Subcategory",
+                "placeholder": "e.g., React Development",
+                "description": "Specific subcategory or specialization"
+            },
+            "price": {
+                "label": "Price",
+                "placeholder": "0",
+                "description": "Starting price for your service in SDG"
+            },
+            "deliveryTime": {
+                "label": "Delivery Time",
+                "placeholder": "e.g., 3-5 days",
+                "description": "Estimated time to complete the service"
+            },
+            "revisions": {
+                "label": "Revisions",
+                "placeholder": "2",
+                "description": "Number of times a client can request changes after delivery",
+                "helpText": "Number of times a client can request changes after delivery (recommended: 2-3)",
+                "warning": "Important: This affects client satisfaction and your service quality rating"
+            },
+            "tags": {
+                "label": "Tags",
+                "placeholder": "Add tag...",
+                "description": "Keywords that help clients find your service",
+                "addButton": "Add"
+            },
+            "features": {
+                "label": "Features",
+                "placeholder": "Add feature...",
+                "description": "Key features and benefits of your service",
+                "addButton": "Add"
+            },
+            "packages": {
+                "label": "Packages",
+                "description": "Create different service packages with varying features and prices",
+                "addButton": "Add Package",
+                "name": "Name",
+                "price": "Price",
+                "deliveryTime": "Delivery Time",
+                "revisions": "Revisions",
+                "removeButton": "Remove"
+            },
+            "faq": {
+                "label": "FAQ",
+                "description": "Frequently asked questions about your service",
+                "addButton": "Add FAQ",
+                "question": "Question",
+                "answer": "Answer",
+                "removeButton": "Remove"
+            }
+        },
+        "validation": {
+            "title": {
+                "required": "Title is required",
+                "min": "Title must be at least 3 characters",
+                "max": "Title must be less than 255 characters"
+            },
+            "description": {
+                "required": "Description is required",
+                "min": "Description must be at least 10 characters",
+                "max": "Description must be less than 1000 characters"
+            },
+            "category": {
+                "required": "Category is required",
+                "min": "Category must be at least 2 characters",
+                "max": "Category must be less than 100 characters"
+            },
+            "price": {
+                "required": "Price is required",
+                "min": "Price must be at least 1",
+                "number": "Price must be a valid number"
+            },
+            "deliveryTime": {
+                "required": "Delivery time is required",
+                "min": "Delivery time must be at least 2 characters",
+                "max": "Delivery time must be less than 100 characters"
+            },
+            "revisions": {
+                "required": "Revisions is required",
+                "min": "Revisions must be at least 1",
+                "number": "Revisions must be a valid number"
+            },
+            "tags": {
+                "required": "At least 2 tags are required",
+                "min": "At least 2 tags are required",
+                "max": "Maximum 10 tags allowed"
+            },
+            "features": {
+                "required": "At least 2 features are required",
+                "min": "At least 2 features are required",
+                "max": "Maximum 15 features allowed"
+            }
+        },
+        "errors": {
+            "general": "An error occurred while creating the service. Please try again.",
+            "network": "Network error. Please check your connection and try again.",
+            "server": "Server error. Please try again later."
+        },
+        "success": {
+            "serviceCreated": "Service created successfully!",
+            "redirecting": "Redirecting to services list..."
+        }
+    },
+    "freelancerServiceEdit": {
+        "pageTitle": "Edit Service",
+        "pageDescription": "Update your service information and settings",
+        "saveChanges": "Save Changes",
+        "saving": "Saving changes...",
+        "success": {
+            "serviceUpdated": "Service updated successfully!",
+            "redirecting": "Redirecting to services list..."
+        },
+        "errors": {
+            "general": "An error occurred while updating the service. Please try again.",
+            "network": "Network error. Please check your connection and try again.",
+            "server": "Server error. Please try again later."
+        }
+    },
+    "freelancerOrders": {
+        "title": "Manage Orders",
+        "description": "View, filter, and manage your freelance orders",
+        "addNewService": "Add New Service",
+        "ordersList": "Orders List",
+        "searchPlaceholder": "Search orders...",
+        "resetFilters": "Reset Filters",
+        "noOrdersFound": "No orders found",
+        "createFirstService": "Create your first service",
+        "showing": "Showing",
+        "of": "of",
+        "results": "results",
+        "previous": "Previous",
+        "next": "Next",
+        "stats": {
+            "totalEarnings": "Total Earnings",
+            "totalOrders": "Total Orders",
+            "completedOrders": "Completed Orders",
+            "inProgressOrders": "In Progress",
+            "reviewOrders": "In Review",
+            "pendingOrders": "Pending",
+            "earningsGrowth": "Earnings Growth",
+            "newEarnings": "New earnings this month",
+            "noGrowth": "No growth this month"
+        },
+        "table": {
+            "orderNumber": "Order #",
+            "service": "Service",
+            "client": "Client",
+            "status": "Status",
+            "paymentStatus": "Payment",
+            "created": "Created",
+            "actions": "Actions",
+            "view": "View"
+        },
+        "status": {
+            "pending": "Pending",
+            "payment_verified": "Payment Verified",
+            "in_progress": "In Progress",
+            "review": "In Review",
+            "completed": "Completed",
+            "cancelled": "Cancelled"
+        },
+        "paymentStatus": {
+            "pending": "Pending",
+            "verified": "Verified",
+            "failed": "Failed"
+        },
+        "actions": {
+            "markInProgress": "Mark as In Progress",
+            "deliverWork": "Deliver Work",
+            "markAsDelivered": "Mark as Delivered",
+            "viewDetails": "View Details",
+            "chat": "Chat",
+            "downloadFiles": "Download Files"
+        },
+        "filters": {
+            "allStatuses": "All Statuses",
+            "allPayments": "All Payments",
+            "filterByStatus": "Filter by status",
+            "filterByPayment": "Filter by payment status"
+        },
+        "messages": {
+            "statusUpdated": "Order status updated successfully.",
+            "workDelivered": "Work delivered successfully.",
+            "invalidTransition": "Invalid status transition.",
+            "onlyInProgress": "You can only deliver work when the order is in progress.",
+            "updateFailed": "Failed to update order status."
+        },
+        "emptyState": {
+            "title": "No orders found",
+            "description": "When you receive orders, they'll appear here",
+            "action": "Create your first service"
+        }
+    },
+    "freelancerOrderShow": {
+        "pageTitle": "Order Details",
+        "orderPlacedOn": "Order Placed On",
+        "orderSummary": "Order Summary",
+        "backToOrders": "Back to Orders",
+        "orderNumber": "Order #{{number}}",
+        "deliverWork": "Deliver Work",
+        "delivering": "Delivering...",
+        "messages": {
+            "workDelivered": "Work delivered successfully!",
+            "deliveryFailed": "Failed to deliver work.",
+            "onlyInProgress": "You can only deliver work when the order is in progress."
+        },
+        "summary": {
+            "orderTotal": "Order Total",
+            "service": "Service",
+            "client": "Client",
+            "payment": "Payment",
+            "status": "Status",
+            "package": "Package",
+            "price": "Price",
+            "serviceFee": "Service Fee",
+            "total": "Total",
+            "dueDate": "Due Date",
+            "created": "Created",
+            "requirements": "Requirements",
+            "additionalNotes": "Additional Notes",
+            "noRequirements": "No requirements provided.",
+            "noNotes": "No additional notes."
+        },
+        "status": {
+            "pending": "Pending",
+            "payment_verified": "Payment Verified",
+            "in_progress": "In Progress",
+            "review": "In Review",
+            "completed": "Completed",
+            "cancelled": "Cancelled"
+        },
+        "paymentStatus": {
+            "pending": "Pending",
+            "verified": "Verified",
+            "failed": "Failed"
+        },
+        "actions": {
+            "viewClient": "View Client Profile",
+            "startChat": "Start Chat",
+            "downloadFiles": "Download Files",
+            "requestRevision": "Request Revision",
+            "markComplete": "Mark as Complete"
+        },
+        "timeline": {
+            "title": "Order Timeline",
+            "orderPlaced": "Order Placed",
+            "paymentVerified": "Payment Verified",
+            "workStarted": "Work Started",
+            "workDelivered": "Work Delivered",
+            "orderCompleted": "Order Completed",
+            "orderCancelled": "Order Cancelled",
+            "orderCreated": "Order Created",
+            "workCompleted": "Work Completed"
+        },
+        "files": {
+            "title": "Order Files",
+            "attachments": "Attachments",
+            "deliverables": "Deliverables",
+            "noFiles": "No files uploaded yet.",
+            "uploadFile": "Upload File",
+            "downloadAll": "Download All"
+        },
+        "communication": {
+            "title": "Communication",
+            "messages": "Messages",
+            "noMessages": "No messages yet.",
+            "sendMessage": "Send Message",
+            "typeMessage": "Type your message..."
+        },
+        "actionsTitle": "Actions",
+        "actions": {
+            "deliverWork": "Deliver Work",
+            "messageClient": "Message Client",
+            "requestRevision": "Request Revision"
+        },
+        "orderHistory": "Order History",
+        "clientInfo": "Client Information",
+        "memberSince": "Member since",
+        "locationNotSpecified": "Location not specified",
+        "completedOrders": "completed orders",
+        "viewFullProfile": "View Full Profile"
+    },
+    "freelancerProfile": {
+        "title": "Freelancer Profile",
+        "hero": {
+            "verified": "Verified",
+            "memberSince": "Member since",
+            "responseTime": "Response in",
+            "hourlyRate": "hourly rate",
+            "ordersCompleted": "orders completed",
+            "reviews": "reviews",
+            "rating": "Rating",
+            "orders": "Orders",
+            "services": "Services",
+            "clients": "Clients",
+            "earningsOverview": "Earnings Overview",
+            "totalEarnings": "Total Earnings",
+            "thisMonth": "This Month",
+            "lastMonth": "Last Month",
+            "averagePerOrder": "Average per Order",
+            "successRate": "Success Rate",
+            "onTimeDelivery": "On-Time Delivery",
+            "repeatClients": "Repeat Clients"
+        },
+        "tabs": {
+            "overview": "Overview",
+            "services": "Services",
+            "portfolio": "Portfolio",
+            "reviews": "Reviews",
+            "earnings": "Earnings",
+            "performance": "Performance"
+        },
+        "about": {
+            "title": "About",
+            "noBio": "No bio available.",
+            "skills": "Skills & Expertise",
+            "languages": "Languages",
+            "education": "Education",
+            "certifications": "Certifications",
+            "experience": "Experience",
+            "recentWork": "Recent Work",
+            "completedFor": "Completed for"
+        },
+        "services": {
+            "searchPlaceholder": "Search services...",
+            "allCategories": "All Categories",
+            "allPrices": "All Prices",
+            "priceRanges": {
+                "low": "Under 50,000 SDG",
+                "medium": "50,000 - 150,000 SDG",
+                "high": "Over 150,000 SDG"
+            },
+            "noServicesFound": "No services found matching your criteria.",
+            "viewDetails": "View Details",
+            "revisions": "revisions"
+        },
+        "portfolio": {
+            "title": "Portfolio",
+            "viewProject": "View Project",
+            "noPortfolio": "No portfolio items available yet."
+        },
+        "reviews": {
+            "title": "Reviews",
+            "noReviews": "No reviews available yet.",
+            "anonymous": "Anonymous"
+        },
+        "earnings": {
+            "title": "Earnings Overview",
+            "monthlyEarnings": "Monthly Earnings",
+            "yearlyEarnings": "Yearly Earnings",
+            "totalEarnings": "Total Earnings",
+            "averageOrderValue": "Average Order Value",
+            "topEarningMonths": "Top Earning Months",
+            "earningsTrend": "Earnings Trend",
+            "recentTransactions": "Recent Transactions"
+        },
+        "performance": {
+            "title": "Performance Stats",
+            "successRate": "Success Rate",
+            "onTimeDelivery": "On-Time Delivery",
+            "repeatClients": "Repeat Clients",
+            "averageRating": "Average Rating",
+            "totalReviews": "Total Reviews",
+            "responseTime": "Response Time",
+            "completionRate": "Completion Rate"
+        },
+        "contact": {
+            "title": "Contact Information",
+            "sendMessage": "Send Message",
+            "contactFreelancer": "Contact Freelancer",
+            "availability": "Availability",
+            "available": "Available",
+            "busy": "Busy",
+            "unavailable": "Unavailable",
+            "responseTime": "Response Time",
+            "socialLinks": "Social Links",
+            "website": "Website",
+            "linkedin": "LinkedIn",
+            "twitter": "Twitter",
+            "instagram": "Instagram",
+            "facebook": "Facebook"
+        },
+        "stats": {
+            "overview": "Overview",
+            "earnings": "Earnings",
+            "performance": "Performance",
+            "recentActivity": "Recent Activity",
+            "topSkills": "Top Skills",
+            "languages": "Languages",
+            "certifications": "Certifications"
+        }
+    },
+    "profileComplete": {
+        "title": "Complete Your Profile",
+        "subtitle": "Join thousands of successful freelancers",
+        "secure": "Secure & Private",
+        "step": "Step",
+        "of": "of",
+        "complete": "complete",
+        "profileCompletion": "Profile Completion",
+        "steps": {
+            "basicInfo": {
+                "title": "Basic Information",
+                "subtitle": "Tell us about yourself",
+                "description": "Let's start with some basic information about you"
+            },
+            "skills": {
+                "title": "Skills & Expertise",
+                "subtitle": "Showcase your capabilities",
+                "description": "Tell us about your skills and rates"
+            },
+            "background": {
+                "title": "Background Details",
+                "subtitle": "Share your experience",
+                "description": "Share your background details"
+            },
+            "availability": {
+                "title": "Availability Settings",
+                "subtitle": "Set your preferences",
+                "description": "Set your availability preferences"
+            }
+        },
+        "form": {
+            "avatar": {
+                "label": "Profile Photo",
+                "placeholder": "Click to upload a professional photo",
+                "recommendation": "Recommended: Square image, 400x400px or larger",
+                "changePhoto": "Change Photo"
+            },
+            "title": {
+                "label": "Professional Title",
+                "placeholder": "e.g. Senior UX Designer, Full-Stack Developer"
+            },
+            "bio": {
+                "label": "About You",
+                "placeholder": "Tell clients about your experience, skills, and what you can offer. Be specific about your expertise and achievements..."
+            },
+            "skills": {
+                "label": "Skills & Expertise",
+                "placeholder": "Add a skill (e.g. React, Figma, Python)",
+                "maxTags": "Maximum 15 tags allowed"
+            },
+            "languages": {
+                "label": "Languages",
+                "placeholder": "Add a language (e.g. English, Spanish, Arabic)",
+                "maxTags": "Maximum 8 tags allowed"
+            },
+            "hourlyRate": {
+                "label": "Hourly Rate (SDG)",
+                "placeholder": "e.g. 50000"
+            },
+            "location": {
+                "label": "Location",
+                "placeholder": "e.g. Khartoum, Sudan"
+            },
+            "website": {
+                "label": "Website/Portfolio",
+                "placeholder": "https://your-portfolio.com"
+            },
+            "education": {
+                "label": "Education",
+                "placeholder": "e.g. University of Khartoum, Computer Science"
+            },
+            "availability": {
+                "label": "Availability Status",
+                "placeholder": "Select your availability",
+                "available": {
+                    "label": "Available",
+                    "description": "Ready for new projects"
+                },
+                "busy": {
+                    "label": "Busy",
+                    "description": "Limited availability"
+                },
+                "unavailable": {
+                    "label": "Unavailable",
+                    "description": "Not taking new projects"
+                }
+            },
+            "responseTime": {
+                "label": "Response Time",
+                "placeholder": "e.g. Within 24 hours, Within 2 hours"
+            }
+        },
+        "navigation": {
+            "previous": "Previous",
+            "continue": "Continue",
+            "completeProfile": "Complete Profile",
+            "saving": "Completing Profile..."
+        },
+        "benefits": {
+            "title": "Why Complete Your Profile?",
+            "visibility": {
+                "title": "Higher Visibility",
+                "description": "Complete profiles rank higher in search results"
+            },
+            "projects": {
+                "title": "More Projects",
+                "description": "Clients prefer detailed profiles"
+            },
+            "rates": {
+                "title": "Better Rates",
+                "description": "Professional profiles command higher rates"
+            }
+        },
+        "tips": {
+            "title": "Pro Tips",
+            "specific": {
+                "title": "Be Specific",
+                "description": "Include specific skills, technologies, and achievements"
+            },
+            "results": {
+                "title": "Show Results",
+                "description": "Mention measurable outcomes from past projects"
+            },
+            "photo": {
+                "title": "Professional Photo",
+                "description": "Use a clear, professional headshot"
+            }
+        },
+        "validation": {
+            "required": "This field is required",
+            "completeFields": "Please complete all required fields",
+            "success": "Profile completed successfully!",
+            "error": "An error occurred. Please try again.",
+            "maxLength": "Maximum {max} characters",
+            "numeric": "Must be a valid number",
+            "email": "Must be a valid email address",
+            "url": "Must be a valid URL",
+            "minLength": "Minimum {min} characters required",
+            "invalidFormat": "Invalid format"
+        }
+    },
+    "admin": {
+        "nav": {
+            "dashboard": "Dashboard",
+            "orders": "Orders",
+            "payments": "Payments",
+            "wallets": "Wallets",
+            "users": "Users",
+            "analytics": "Analytics",
+            "settings": "Settings",
+            "help": "Help & Support",
+            "services": "Services"
+        },
+        "role": "Administrator",
+        "panel": "Admin Panel",
+        "dashboard": {
+            "title": "Admin Dashboard",
+            "welcome": "Welcome back, {{name}}! 👋",
+            "overview": "Here's an overview of your platform's performance today.",
+            "stats": {
+                "totalRevenue": "Total Revenue",
+                "totalOrders": "Total Orders",
+                "totalUsers": "Total Users",
+                "totalServices": "Total Services",
+                "totalFreelancers": "Total Freelancers",
+                "totalClients": "Total Clients",
+                "pendingOrders": "Pending Orders",
+                "completedOrders": "Completed Orders",
+                "totalWalletBalance": "Total Wallet Balance",
+                "averageOrderValue": "Average Order Value",
+                "completionRate": "Completion Rate",
+                "revenueGrowth": "+{percent}% from last month",
+                "ordersGrowth": "+{percent}% from last month",
+                "usersGrowth": "+{percent}% from last month",
+                "currentlyActive": "Currently active",
+                "requireAttention": "Require attention",
+                "totalPlatformBalance": "Total platform balance"
+            },
+            "quickActions": {
+                "manageUsers": "Manage Users",
+                "manageUsersDesc": "View and manage all users",
+                "createService": "Create Service",
+                "createServiceDesc": "Add a new service",
+                "viewOrders": "View Orders",
+                "viewOrdersDesc": "See all platform orders",
+                "analytics": "Analytics",
+                "analyticsDesc": "Platform analytics"
+            },
+            "sections": {
+                "recentOrders": "Recent Orders",
+                "recentOrdersDesc": "Latest platform orders",
+                "recentServices": "Recent Services",
+                "recentServicesDesc": "Newly added services",
+                "recentUsers": "Recent Users",
+                "recentUsersDesc": "Newly registered users",
+                "topFreelancers": "Top Freelancers",
+                "topFreelancersDesc": "Best performing freelancers",
+                "recentTransactions": "Recent Transactions",
+                "recentTransactionsDesc": "Latest wallet transactions"
+            },
+            "status": {
+                "pending": "Pending",
+                "completed": "Completed",
+                "cancelled": "Cancelled",
+                "inProgress": "In Progress"
+            },
+            "actions": {
+                "viewAll": "View All",
+                "viewDetails": "View Details"
+            },
+            "empty": {
+                "noRecentOrders": "No recent orders.",
+                "noRecentServices": "No recent services.",
+                "noTopFreelancers": "No top freelancers."
+            },
+            "fallback": {
+                "service": "S",
+                "freelancer": "Freelancer",
+                "professional": "Professional"
+            },
+            "reviews": {
+                "count": "{{count}} reviews"
+            }
+        },
+        "orders": {
+            "title": "Orders Management",
+            "description": "View and manage all orders on the platform.",
+            "ordersList": "Orders List",
+            "results": "results",
+            "searchPlaceholder": "Search by order #, client, freelancer, service...",
+            "filters": {
+                "status": "Status",
+                "allStatuses": "All Statuses",
+                "payment": "Payment Status",
+                "allPayments": "All Payments"
+            },
+            "stats": {
+                "totalOrders": "Total Orders",
+                "completedOrders": "Completed",
+                "pendingOrders": "Pending",
+                "inProgressOrders": "In Progress",
+                "cancelledOrders": "Cancelled",
+                "totalRevenue": "Total Revenue"
+            },
+            "table": {
+                "orderNumber": "Order #",
+                "service": "Service",
+                "client": "Client",
+                "freelancer": "Freelancer",
+                "status": "Status",
+                "payment": "Payment",
+                "created": "Created",
+                "actions": "Actions"
+            },
+            "status": {
+                "pending": "Pending",
+                "completed": "Completed",
+                "cancelled": "Cancelled",
+                "inProgress": "In Progress"
+            },
+            "payment": {
+                "paid": "Paid",
+                "unpaid": "Unpaid",
+                "pending": "Pending"
+            },
+            "pagination": {
+                "showing": "Showing",
+                "of": "of",
+                "results": "results",
+                "page": "Page",
+                "rowsPerPage": "Rows per page",
+                "goToFirst": "Go to first page",
+                "goToPrevious": "Go to previous page",
+                "goToNext": "Go to next page",
+                "goToLast": "Go to last page"
+            },
+            "loading": "Loading orders...",
+            "noOrdersFound": "No orders found.",
+            "detailsTitle": "Order Details",
+            "details": {
+                "orderNumber": "Order #",
+                "service": "Service",
+                "client": "Client",
+                "freelancer": "Freelancer",
+                "status": "Status",
+                "paymentStatus": "Payment Status",
+                "created": "Created"
+            }
+        },
+        "payments": {
+            "title": "Payments Management",
+            "description": "Manage and monitor all payment transactions on the platform.",
+            "export": "Export Data",
+            "searchPlaceholder": "Search orders, clients, freelancers...",
+            "loading": "Loading payments...",
+            "noPaymentsFound": "No payments found.",
+            "selected": "selected",
+            "clearSelection": "Clear Selection",
+            "selectAll": "Select All",
+            "selectNone": "Select None",
+            "of": "of",
+            "payments": "payments",
+            "resetFilters": "Reset Filters",
+            "selectOrdersForBulkAction": "Please select orders for bulk action",
+            "approveSuccess": "Payment approved successfully",
+            "approveError": "Failed to approve payment",
+            "rejectSuccess": "Payment rejected successfully",
+            "rejectError": "Failed to reject payment",
+            "bulkApproveSuccess": "Bulk approval completed successfully",
+            "bulkRejectSuccess": "Bulk rejection completed successfully",
+            "bulkActionError": "Failed to perform bulk action",
+            "filters": {
+                "paymentStatus": "Payment Status",
+                "orderStatus": "Order Status",
+                "allPaymentStatuses": "All Payment Statuses",
+                "allOrderStatuses": "All Order Statuses"
+            },
+            "bulkActions": {
+                "select": "Select Action",
+                "approve": "Approve Payments",
+                "reject": "Reject Payments",
+                "apply": "Apply Action"
+            },
+            "stats": {
+                "totalOrders": "Total Orders",
+                "pendingPayments": "Pending Payments",
+                "verifiedPayments": "Verified Payments",
+                "totalRevenue": "Total Revenue",
+                "monthlyRevenue": "Monthly Revenue"
+            },
+            "status": {
+                "pending": "Pending",
+                "verified": "Verified",
+                "failed": "Failed"
+            },
+            "orderStatus": {
+                "pending": "Pending",
+                "paymentVerified": "Payment Verified",
+                "inProgress": "In Progress",
+                "review": "In Review",
+                "completed": "Completed",
+                "cancelled": "Cancelled",
+                "delivered": "Delivered",
+                "revisionRequested": "Revision Requested"
+            },
+            "table": {
+                "orderNumber": "Order #",
+                "service": "Service",
+                "client": "Client",
+                "freelancer": "Freelancer",
+                "amount": "Amount",
+                "paymentStatus": "Payment",
+                "orderStatus": "Status",
+                "created": "Created",
+                "paymentProof": "Proof",
+                "viewProof": "View Payment Proof",
+                "noProof": "No Proof"
+            },
+            "actions": {
+                "approve": "Approve Payment",
+                "reject": "Reject Payment"
+            },
+            "detailsTitle": "Payment Details",
+            "details": {
+                "orderNumber": "Order Number",
+                "transactionRef": "Transaction Reference",
+                "service": "Service",
+                "amount": "Amount",
+                "client": "Client",
+                "freelancer": "Freelancer",
+                "paymentStatus": "Payment Status",
+                "orderStatus": "Order Status",
+                "created": "Created Date",
+                "paymentVerified": "Payment Verified Date",
+                "requirements": "Requirements",
+                "additionalNotes": "Additional Notes",
+                "paymentProof": "Payment Proof",
+                "viewFullSize": "View Full Size",
+                "downloadProof": "Download Proof",
+                "imageNotAvailable": "Image not available",
+                "noPaymentProof": "No payment proof uploaded"
+            },
+            "fallback": {
+                "service": "N/A",
+                "client": "N/A",
+                "freelancer": "N/A"
+            },
+            "pagination": {
+                "showing": "Showing",
+                "of": "of",
+                "results": "results",
+                "rowsPerPage": "Rows per page",
+                "page": "Page",
+                "goToFirst": "Go to first page",
+                "goToPrevious": "Go to previous page",
+                "goToNext": "Go to next page",
+                "goToLast": "Go to last page"
+            },
+            "paymentsList": "Payments List"
+        },
+        "services": {
+            "title": "Services Management",
+            "popular": "Popular",
+            "featured": "AFeatured",
+            "description": "Manage all platform services, their status, and visibility.",
+            "addNew": "Add New Service",
+            "servicesList": "Services List",
+            "noServicesFound": "No services found.",
+            "loading": "Loading services...",
+            "searchPlaceholder": "Search services...",
+            "resetFilters": "Reset Filters",
+            "deleteConfirm": "Delete Service",
+            "deleteWarning": "Are you sure you want to delete this service? This action cannot be undone.",
+            "deleteSuccess": "Service deleted successfully.",
+            "deleteGenericError": "Failed to delete service. Please try again.",
+            "statusToggleSuccess": "Service status updated successfully.",
+            "statusToggleError": "Failed to update service status.",
+            "featuredToggleSuccess": "Service featured status updated successfully.",
+            "featuredToggleError": "Failed to update service featured status.",
+            "popularToggleSuccess": "Service popular status updated successfully.",
+            "popularToggleError": "Failed to update service popular status.",
+            "bulkActionSuccess": "Bulk action completed successfully.",
+            "bulkActionError": "Failed to perform bulk action.",
+            "selectServicesForBulkAction": "Please select services and an action.",
+            "of": "of",
+            "services": "services",
+            "selected": "selected",
+            "clearSelection": "Clear Selection",
+            "selectAll": "Select All",
+            "selectNone": "Select None",
+            "pagination": {
+                "showing": "Showing",
+                "of": "of",
+                "results": "results",
+                "page": "Page",
+                "rowsPerPage": "Rows per page",
+                "goToFirst": "Go to first page",
+                "goToPrevious": "Go to previous page",
+                "goToNext": "Go to next page",
+                "goToLast": "Go to last page"
+            },
+            "stats": {
+                "totalServices": "Total Services",
+                "activeServices": "Active Services",
+                "featuredServices": "Featured Services",
+                "totalOrders": "Total Orders"
+            },
+            "table": {
+                "title": "Title",
+                "freelancer": "Freelancer",
+                "category": "Category",
+                "price": "Price",
+                "orders": "Orders",
+                "created": "Created"
+            },
+            "status": {
+                "active": "Active",
+                "inactive": "Inactive",
+                "featured": "Featured",
+                "popular": "Popular"
+            },
+            "language": {
+                "both": "Both",
+                "ar": "Arabic",
+                "en": "English"
+            },
+            "filters": {
+                "status": "Status",
+                "category": "Category",
+                "allStatuses": "All Statuses",
+                "active": "Active",
+                "inactive": "Inactive",
+                "featured": "Featured",
+                "popular": "Popular",
+                "allCategories": "All Categories"
+            },
+            "bulkActions": {
+                "select": "Select Action",
+                "activate": "Activate",
+                "deactivate": "Deactivate",
+                "feature": "Feature",
+                "unfeature": "Unfeature",
+                "popular": "Mark as Popular",
+                "unpopular": "Remove Popular",
+                "delete": "Delete",
+                "apply": "Apply"
+            },
+            "actions": {
+                "activate": "Activate",
+                "deactivate": "Deactivate",
+                "feature": "Feature",
+                "unfeature": "Unfeature",
+                "popular": "Mark as Popular",
+                "unpopular": "Remove Popular"
+            },
+            "fallback": {
+                "freelancer": "Freelancer"
+            }
+        },
+        "wallet": {
+            "header": "Wallet Management",
+            "description": "Manage user wallets and payout requests.",
+            "stats": {
+                "totalWallets": "Total Wallets",
+                "totalBalance": "Total Balance",
+                "lockedWallets": "Locked Wallets",
+                "pendingPayouts": "Pending Payouts"
+            },
+            "table": {
+                "userWallets": "User Wallets",
+                "user": "User",
+                "email": "Email",
+                "balance": "Balance",
+                "status": "Status",
+                "actions": "Actions",
+                "of": "of",
+                "wallets": "wallets",
+                "noWalletsFound": "No wallets found",
+                "rowsPerPage": "Rows per page",
+                "page": "Page {{n}} of {{total}}",
+                "goToFirstPage": "Go to first page",
+                "goToPreviousPage": "Go to previous page",
+                "goToNextPage": "Go to next page",
+                "goToLastPage": "Go to last page"
+            },
+            "bulkActions": {
+                "selected": "selected",
+                "clearSelection": "Clear Selection",
+                "lockSelected": "Lock selected",
+                "unlockSelected": "Unlock selected"
+            },
+            "actions": {
+                "lock": "Lock",
+                "unlock": "Unlock",
+                "lockSuccess": "Wallet locked successfully",
+                "lockError": "Failed to lock wallet",
+                "unlockSuccess": "Wallet unlocked successfully",
+                "unlockError": "Failed to unlock wallet",
+                "bulkLockSuccess": "Selected wallets locked successfully",
+                "bulkLockError": "Failed to lock selected wallets",
+                "bulkUnlockSuccess": "Selected wallets unlocked successfully",
+                "bulkUnlockError": "Failed to unlock selected wallets",
+                "manualOperation": "Manual Operation",
+                "manualOperationSuccess": "Manual operation completed successfully",
+                "manualOperationError": "Failed to perform manual operation"
+            },
+            "status": {
+                "active": "Active",
+                "locked": "Locked"
+            },
+            "manualOperation": {
+                "title": "Manual Wallet Operation",
+                "description": "Credit or debit funds from this wallet.",
+                "user": "User",
+                "currentBalance": "Current Balance",
+                "credit": "Credit",
+                "debit": "Debit",
+                "amount": "Amount",
+                "amountPlaceholder": "Enter amount",
+                "reason": "Reason",
+                "reasonPlaceholder": "Enter reason",
+                "cancel": "Cancel",
+                "creditWallet": "Credit Wallet",
+                "debitWallet": "Debit Wallet"
+            }
+        },
+        "payout": {
+            "table": {
+                "pendingPayoutRequests": "Pending Payout Requests",
+                "user": "User",
+                "amount": "Amount",
+                "status": "Status",
+                "requestedAt": "Requested At",
+                "of": "of",
+                "requests": "requests",
+                "noPendingPayoutRequestsFound": "No pending payout requests found",
+                "rowsPerPage": "Rows per page",
+                "page": "Page {{n}} of {{total}}",
+                "goToFirstPage": "Go to first page",
+                "goToPreviousPage": "Go to previous page",
+                "goToNextPage": "Go to next page",
+                "goToLastPage": "Go to last page",
+                "showing": "Showing {{n}} of {{total}} requests"
+            },
+            "actions": {
+                "viewDetails": "View Details",
+                "approve": "Approve",
+                "reject": "Reject",
+                "viewProof": "View Proof",
+                "approveSuccess": "Payout approved successfully",
+                "approveError": "Failed to approve payout",
+                "rejectSuccess": "Payout rejected successfully",
+                "rejectError": "Failed to reject payout"
+            },
+            "status": {
+                "pending": "Pending",
+                "paid": "Paid",
+                "rejected": "Rejected"
+            },
+            "viewDetails": {
+                "title": "Payout Request Details",
+                "description": "Detailed information about this payout request.",
+                "user": "User",
+                "email": "Email",
+                "amount": "Amount",
+                "status": "Status",
+                "requestedAt": "Requested At",
+                "paymentMethod": "Payment Method",
+                "bankTransfer": "Bank Transfer",
+                "bankAccountDetails": "Bank Account Details",
+                "paymentProof": "Payment Proof",
+                "paymentProofAlt": "Payment proof image",
+                "referenceNumber": "Reference Number",
+                "paymentDate": "Payment Date",
+                "adminNotes": "Admin Notes",
+                "close": "Close"
+            },
+            "approve": {
+                "title": "Approve Payout Request",
+                "description": "Approve this payout request and provide payment details.",
+                "user": "User",
+                "amount": "Amount",
+                "referenceNumber": "Reference Number",
+                "referenceNumberPlaceholder": "Enter reference number",
+                "paymentProof": "Payment Proof",
+                "notes": "Notes (Optional)",
+                "notesPlaceholder": "Enter notes (optional)",
+                "cancel": "Cancel",
+                "approvePayout": "Approve Payout"
+            },
+            "reject": {
+                "title": "Reject Payout Request",
+                "description": "Reject this payout request and provide a reason.",
+                "user": "User",
+                "amount": "Amount",
+                "rejectionReason": "Reason for Rejection",
+                "rejectionReasonPlaceholder": "Enter reason for rejection",
+                "cancel": "Cancel",
+                "rejectPayout": "Reject Payout"
+            }
+        },
+        "users": {
+            "title": "Users Management",
+            "description": "View and manage all users on the platform.",
+            "addNew": "Add New User",
+            "usersList": "Users List",
+            "results": "results",
+            "loading": "Loading users...",
+            "noUsersFound": "No users found.",
+            "searchPlaceholder": "Search by name, email, or phone...",
+            "resetFilters": "Reset Filters",
+            "adminUsers": "Admin Users",
+            "inactiveUsers": "Inactive Users",
+            "activeUsers": "Active Users",
+            "totalUsers": "Total Users",
+            "selected": "Selected",
+            "bulkActions": "Bulk Actions",
+            "table": {
+                "name": "Name",
+                "email": "Email",
+                "phone": "Phone",
+                "roles": "Roles",
+                "status": "Status",
+                "actions": "Actions"
+            },
+            "filters": {
+                "role": "Role",
+                "allRoles": "All Roles",
+                "status": "Status",
+                "allStatuses": "All Statuses",
+                "active": "Active",
+                "inactive": "Inactive"
+            },
+            "roles": {
+                "admin": "Admin",
+                "client": "Client",
+                "freelancer": "Freelancer"
+            },
+            "status": {
+                "active": "Active",
+                "inactive": "Inactive"
+            },
+            "actions": {
+                "makeAdmin": "Make Admin",
+                "removeAdmin": "Remove Admin",
+                "activate": "Activate",
+                "deactivate": "Deactivate"
+            },
+            "pagination": {
+                "showing": "Showing",
+                "of": "of",
+                "results": "results",
+                "page": "Page",
+                "rowsPerPage": "Rows per page",
+                "goToFirst": "Go to first page",
+                "goToPrevious": "Go to previous page",
+                "goToNext": "Go to next page",
+                "goToLast": "Go to last page"
+            },
+            "create": {
+                "title": "Create New User",
+                "fields": {
+                    "name": "Full Name",
+                    "namePlaceholder": "Enter full name",
+                    "email": "Email Address",
+                    "emailPlaceholder": "user@example.com",
+                    "phone": "Phone Number",
+                    "phonePlaceholder": "e.g. +249...",
+                    "password": "Password",
+                    "password_confirmation": "Confirm Password",
+                    "role": "Role",
+                    "rolePlaceholder": "Select roles",
+                    "is_active": "Active User"
+                },
+                "button": "Create User",
+                "creating": "Creating...",
+                "backToList": "Back to Users List",
+                "show": "Show",
+                "hide": "Hide",
+                "validation": {
+                    "name": {
+                        "min": "Name must be at least 2 characters",
+                        "max": "Name must be less than 255 characters"
+                    },
+                    "email": {
+                        "invalid": "Please enter a valid email address",
+                        "max": "Email must be less than 255 characters"
+                    },
+                    "phone": {
+                        "max": "Phone number must be less than 20 characters"
+                    },
+                    "password": {
+                        "min": "Password must be at least 8 characters"
+                    },
+                    "password_confirmation": {
+                        "mismatch": "Passwords do not match"
+                    },
+                    "roles": {
+                        "required": "Please select at least one role"
+                    }
+                }
+            }
+        }
+    }
+}
