@@ -1,0 +1,1 @@
+import{d as s,j as t}from"./app-tu_nxz4H.js";function n({className:o="h-8 w-auto"}){const{isDarkMode:r}=s();return t.jsx("img",{src:r?"/logo-dark.png":"/logo.png",alt:"Anjez Logo",className:o})}export{n as L};
