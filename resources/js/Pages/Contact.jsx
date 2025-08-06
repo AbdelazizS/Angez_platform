@@ -138,7 +138,6 @@ export default function Contact({ auth, errors, success }) {
     return (
         <>
             <Head title={t('contact.title')} />
-            <Toaster />
 
             <Navbar auth={auth} />
 
