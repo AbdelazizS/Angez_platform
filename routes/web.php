@@ -132,20 +132,20 @@ Route::middleware(['auth', 'role:admin'])->prefix('admin')->group(function () {
 
 Route::get('/freelancers/{id}', [FreelancerPublicProfileController::class, 'show'])->name('freelancers.show');
 
-Route::middleware('auth')->group(function () {
+Route::middleware(['auth', 'role:freelancer'])->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
     
-    // Freelancer Profile Management
-    Route::get('/freelancers/profile/edit', [App\Http\Controllers\FreelancerProfileController::class, 'edit'])
-        ->name('freelancers.profile.edit');
-    Route::post('/freelancers/profile/update', [App\Http\Controllers\FreelancerProfileController::class, 'update'])
-        ->name('freelancers.profile.update');
+    // // Freelancer Profile Management
+    // Route::get('/freelancers/profile/edit', [App\Http\Controllers\FreelancerProfileController::class, 'edit'])
+    //     ->name('freelancers.profile.edit');
+    // Route::post('/freelancers/profile/update', [App\Http\Controllers\FreelancerProfileController::class, 'update'])
+    //     ->name('freelancers.profile.update');
 });
 
 // Freelancer profile completion routes
-Route::middleware(['auth'])->group(function () {
+Route::middleware(['auth', 'role:freelancer'])->group(function () {
     Route::get('/freelancer/profile/complete', [\App\Http\Controllers\Auth\RegisterController::class, 'showProfileCompletion'])->name('freelancer.profile.complete');
     Route::post('/freelancer/profile/complete', [\App\Http\Controllers\Auth\RegisterController::class, 'completeProfile'])->name('freelancer.profile.complete.submit');
 });
