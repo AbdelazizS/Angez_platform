@@ -1,6 +1,6 @@
 import { Head, Link } from "@inertiajs/react";
-import Navbar from "@/Components/Home/Navbar";
-import Footer from "@/Components/Home/Footer";
+import Navbar from "@/components/Home/Navbar";
+import Footer from "@/components/Home/Footer";
 import { useTranslation } from "react-i18next";
 import { 
     Globe, 
@@ -19,7 +19,7 @@ import {
     HeartHandshake
 } from 'lucide-react';
 import { motion } from "framer-motion";
-import { Badge } from "@/Components/ui/badge";
+import { Badge } from "@/components/ui/badge";
 
 export default function About({ auth }) {
     const { t } = useTranslation();

@@ -14,7 +14,7 @@ import {
   SidebarFooter,
   SidebarHeader,
   SidebarTrigger,
-} from "@/Components/ui/sidebar";
+} from "@/components/ui/sidebar";
 import { 
   Home, 
   Package, 
@@ -34,7 +34,7 @@ import {
   Activity,
   Briefcase
 } from "lucide-react";
-import { Avatar, AvatarFallback, AvatarImage } from "@/Components/ui/avatar";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { cn } from "@/lib/utils";
 
 // Admin sidebar navigation links - matching your admin routes

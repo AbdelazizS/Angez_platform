@@ -1,10 +1,10 @@
 import { Head, Link } from "@inertiajs/react";
-import Navbar from "@/Components/Home/Navbar";
-import Footer from "@/Components/Home/Footer";
+import Navbar from "@/components/Home/Navbar";
+import Footer from "@/components/Home/Footer";
 import { useTranslation } from "react-i18next";
 import { MessageSquare, User, CreditCard, Shield, HelpCircle, ArrowRight } from 'lucide-react';
 import { useState } from 'react';
-import { Button } from "@/Components/ui/button";
+import { Button } from "@/components/ui/button";
 
 export default function FAQ({ auth }) {
     const { t } = useTranslation();

@@ -1,12 +1,12 @@
 import React from 'react';
 import { Bell } from 'lucide-react';
-import { Badge } from '@/Components/ui/badge';
-import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuItem } from '@/Components/ui/dropdown-menu';
-import Breadcrumbs from '@/Components/ui/Breadcrumbs';
-import ThemeSwitcher from '@/Components/ui/ThemeSwitcher';
-import UserMenu from '@/Components/ui/UserMenu';
-import LanguageDropdown from '@/Components/LanguageDropdown';
-import { SidebarTrigger } from '@/Components/ui/sidebar';
+import { Badge } from '@/components/ui/badge';
+import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuItem } from '@/components/ui/dropdown-menu';
+import Breadcrumbs from '@/components/ui/Breadcrumbs';
+import ThemeSwitcher from '@/components/ui/ThemeSwitcher';
+import UserMenu from '@/components/ui/UserMenu';
+import LanguageDropdown from '@/components/LanguageDropdown';
+import { SidebarTrigger } from '@/components/ui/sidebar';
 import { useTranslation } from 'react-i18next';
 
 function generateBreadcrumbsFromPath(pathname) {

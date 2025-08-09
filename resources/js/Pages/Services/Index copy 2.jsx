@@ -57,8 +57,8 @@ import {
 } from "@/components/ui/pagination";
 import { useTranslation } from "react-i18next";
 import { useLanguageChange } from "@/lib/useLanguageChange";
-import Navbar from "@/Components/Home/Navbar";
-import Footer from "@/Components/Home/Footer";
+import Navbar from "@/components/Home/Navbar";
+import Footer from "@/components/Home/Footer";
 import debounce from 'lodash/debounce';
 
 export default function ServicesIndex({ 

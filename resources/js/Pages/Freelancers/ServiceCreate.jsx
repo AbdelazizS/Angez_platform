@@ -3,7 +3,7 @@ import { Head, router } from '@inertiajs/react';
 import { useTranslation } from 'react-i18next';
 import FreelancerDashboardLayout from '@/Layouts/FreelancerDashboardLayout';
 import ServiceForm from './ServiceForm';
-import { Card, CardContent, CardHeader, CardTitle } from '@/Components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
 export default function ServiceCreate({ errors }) {
   const { t } = useTranslation();

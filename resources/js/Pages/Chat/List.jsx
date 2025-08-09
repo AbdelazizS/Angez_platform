@@ -1,9 +1,9 @@
 import { useState, useMemo } from "react";
 import { Head, Link } from "@inertiajs/react";
-import { Input } from "@/Components/ui/input";
-import { Avatar, AvatarFallback, AvatarImage } from "@/Components/ui/avatar";
-import { Badge } from "@/Components/ui/badge";
-import { Skeleton } from "@/Components/ui/skeleton";
+import { Input } from "@/components/ui/input";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Badge } from "@/components/ui/badge";
+import { Skeleton } from "@/components/ui/skeleton";
 import { useTranslation } from "react-i18next";
 import { route } from "ziggy-js";
 import {

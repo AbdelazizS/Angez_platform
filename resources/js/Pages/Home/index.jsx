@@ -1,11 +1,11 @@
 import { Head } from "@inertiajs/react";
-import Navbar from "@/Components/Home/Navbar";
-import Hero from "@/Components/Home/Hero";
-import Services from "@/Components/Home/Services";
-import HowItWorks from "@/Components/Home/HowItWorks";
-import Features from "@/Components/Home/Features";
-import Footer from "@/Components/Home/Footer";
-import VideoSection from "@/Components/Home/VideoSection";
+import Navbar from "@/components/Home/Navbar";
+import Hero from "@/components/Home/Hero";
+import Services from "@/components/Home/Services";
+import HowItWorks from "@/components/Home/HowItWorks";
+import Features from "@/components/Home/Features";
+import Footer from "@/components/Home/Footer";
+import VideoSection from "@/components/Home/VideoSection";
 
 export default function Home({ auth }) {
     return (

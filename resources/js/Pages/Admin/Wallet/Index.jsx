@@ -1,7 +1,7 @@
 import React, { useState, useMemo, useEffect } from "react";
 import { Head, Link, router } from "@inertiajs/react";
-import { Button } from "@/Components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/Components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import AdminLayout from "@/Layouts/AdminLayout";
 import { toast } from "sonner";
 import {
@@ -11,7 +11,7 @@ import {
   TableHead,
   TableRow,
   TableCell,
-} from "@/Components/ui/table";
+} from "@/components/ui/table";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -19,7 +19,7 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@/Components/ui/dropdown-menu";
+} from "@/components/ui/dropdown-menu";
 import {
   Dialog,
   DialogContent,
@@ -27,10 +27,10 @@ import {
   DialogTitle,
   DialogFooter,
   DialogDescription,
-} from "@/Components/ui/dialog";
-import { Input } from "@/Components/ui/input";
-import { Badge } from "@/Components/ui/badge";
-import { Checkbox } from "@/Components/ui/checkbox";
+} from "@/components/ui/dialog";
+import { Input } from "@/components/ui/input";
+import { Badge } from "@/components/ui/badge";
+import { Checkbox } from "@/components/ui/checkbox";
 import {
   Lock,
   Unlock,
@@ -62,7 +62,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/Components/ui/select";
+} from "@/components/ui/select";
 import { useTranslation } from "react-i18next";
 import i18n from "@/lib/i18n";
 

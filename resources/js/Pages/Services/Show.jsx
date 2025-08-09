@@ -52,10 +52,10 @@ import {
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useTranslation } from "react-i18next";
 import { useLanguageChange } from "@/lib/useLanguageChange";
-import Navbar from "@/Components/Home/Navbar";
-import Footer from "@/Components/Home/Footer";
+import Navbar from "@/components/Home/Navbar";
+import Footer from "@/components/Home/Footer";
 import { Toaster, toast } from "sonner";
-import { Avatar, AvatarFallback, AvatarImage } from "@/Components/ui/avatar";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 function ShareButton({ url, label }) {
     const { t } = useTranslation();

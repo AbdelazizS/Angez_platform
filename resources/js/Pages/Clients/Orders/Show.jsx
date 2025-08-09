@@ -5,9 +5,9 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from '@/Components/ui/dropdown-menu';
-import { Badge } from '@/Components/ui/badge';
-import { Button } from '@/Components/ui/button';
+} from '@/components/ui/dropdown-menu';
+import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
 import { 
   Card, 
   CardContent, 
@@ -15,8 +15,8 @@ import {
   CardTitle,
   CardDescription,
   CardFooter
-} from '@/Components/ui/card';
-import { Input } from '@/Components/ui/input';
+} from '@/components/ui/card';
+import { Input } from '@/components/ui/input';
 import { 
   AlertTriangle,
   ArrowLeft,
@@ -35,9 +35,9 @@ import {
 } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import ClientDashboardLayout from '@/Layouts/ClientDashboardLayout';
-import ReviewForm from '@/Components/ReviewForm';
-import ReviewCard from '@/Components/ReviewCard';
-import { Label } from '@/Components/ui/label';
+import ReviewForm from '@/components/ReviewForm';
+import ReviewCard from '@/components/ReviewCard';
+import { Label } from '@/components/ui/label';
 
 export default function OrderShow({ order }) {
   const { t, i18n } = useTranslation();

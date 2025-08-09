@@ -50,25 +50,25 @@ import {
     PieChart,
     LineChart,
 } from "lucide-react";
-import { Button } from "@/Components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/Components/ui/card";
-import { Badge } from "@/Components/ui/badge";
-import { Avatar, AvatarFallback, AvatarImage } from "@/Components/ui/avatar";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/Components/ui/tabs";
-import { Input } from "@/Components/ui/input";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Input } from "@/components/ui/input";
 import {
     Select,
     SelectContent,
     SelectItem,
     SelectTrigger,
     SelectValue,
-} from "@/Components/ui/select";
-import { Progress } from "@/Components/ui/progress";
-import { Separator } from "@/Components/ui/separator";
+} from "@/components/ui/select";
+import { Progress } from "@/components/ui/progress";
+import { Separator } from "@/components/ui/separator";
 import { useTranslation } from "react-i18next";
 import { useLanguageChange } from "@/lib/useLanguageChange";
-import Navbar from "@/Components/Home/Navbar";
-import Footer from "@/Components/Home/Footer";
+import Navbar from "@/components/Home/Navbar";
+import Footer from "@/components/Home/Footer";
 
 export default function FreelancerShow({
     freelancer,

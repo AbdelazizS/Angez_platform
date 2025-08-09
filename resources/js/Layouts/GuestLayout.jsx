@@ -1,8 +1,8 @@
-import ApplicationLogo from '@/Components/ApplicationLogo';
+import ApplicationLogo from '@/components/ApplicationLogo';
 import { Link } from '@inertiajs/react';
-import Logo from '@/Components/Logo';
-import DarkModeToggle from '@/Components/DarkModeToggle';
-import LanguageDropdown from '@/Components/LanguageDropdown';
+import Logo from '@/components/Logo';
+import DarkModeToggle from '@/components/DarkModeToggle';
+import LanguageDropdown from '@/components/LanguageDropdown';
 
 export default function GuestLayout({ children }) {
     return (

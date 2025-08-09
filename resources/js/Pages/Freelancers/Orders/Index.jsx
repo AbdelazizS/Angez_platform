@@ -1,7 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { Head, Link, router } from '@inertiajs/react';
-import { Button } from '@/Components/ui/button';
-import { Card, CardContent, CardHeader, CardTitle } from '@/Components/ui/card';
+import { Button } from '@/components/ui/button';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import FreelancerDashboardLayout from '@/Layouts/FreelancerDashboardLayout';
 import { toast } from 'sonner';
 import {
@@ -11,16 +11,16 @@ import {
   TableHead,
   TableRow,
   TableCell,
-} from '@/Components/ui/table';
+} from '@/components/ui/table';
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from '@/Components/ui/select';
-import { Input } from '@/Components/ui/input';
-import { Badge } from '@/Components/ui/badge';
+} from '@/components/ui/select';
+import { Input } from '@/components/ui/input';
+import { Badge } from '@/components/ui/badge';
 import {
   useReactTable,
   getCoreRowModel,
@@ -53,7 +53,7 @@ import {
   AlertCircle,
   XCircle,
 } from 'lucide-react';
-import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuItem } from '@/Components/ui/dropdown-menu';
+import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuItem } from '@/components/ui/dropdown-menu';
 
 const columnHelper = createColumnHelper();
 

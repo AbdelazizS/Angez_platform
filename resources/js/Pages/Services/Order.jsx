@@ -29,8 +29,8 @@ import { Checkbox } from '@/components/ui/checkbox';
 import { Separator } from '@/components/ui/separator';
 import { useTranslation } from 'react-i18next';
 import { useLanguageChange } from '@/lib/useLanguageChange';
-import Navbar from '@/Components/Home/Navbar';
-import Footer from '@/Components/Home/Footer';
+import Navbar from '@/components/Home/Navbar';
+import Footer from '@/components/Home/Footer';
 
 export default function ServiceOrder({ service, selectedPackage, auth }) {
     const { t } = useTranslation();

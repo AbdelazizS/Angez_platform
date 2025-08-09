@@ -13,9 +13,9 @@ import {
   SidebarMenuBadge,
   SidebarFooter,
   SidebarHeader,
-} from "@/Components/ui/sidebar";
+} from "@/components/ui/sidebar";
 import { Home, Search, Package, MessageSquare, HelpCircle } from "lucide-react";
-import { Avatar, AvatarFallback, AvatarImage } from "@/Components/ui/avatar";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { cn } from "@/lib/utils";
 
 

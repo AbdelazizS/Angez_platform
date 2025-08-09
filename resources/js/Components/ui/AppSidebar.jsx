@@ -2,7 +2,7 @@ import React from 'react';
 import { Home, Briefcase, ShoppingCart, User, Settings, LogOut, Menu } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import { Link, usePage } from '@inertiajs/react';
-import { SidebarProvider, Sidebar } from '@/Components/ui/sidebar';
+import { SidebarProvider, Sidebar } from '@/components/ui/sidebar';
 
 export default function AppSidebar() {
   const { t } = useTranslation();

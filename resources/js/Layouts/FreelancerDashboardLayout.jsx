@@ -1,9 +1,9 @@
 import React from 'react';
 import { usePage } from '@inertiajs/react';
 import { useTranslation } from 'react-i18next';
-import FreelancerSidebar from '@/Components/ui/FreelancerSidebar';
-import AppHeader from '@/Components/ui/AppHeader';
-import { SidebarProvider } from '@/Components/ui/sidebar';
+import FreelancerSidebar from '@/components/ui/FreelancerSidebar';
+import AppHeader from '@/components/ui/AppHeader';
+import { SidebarProvider } from '@/components/ui/sidebar';
 
 export default function FreelancerDashboardLayout({noPadding, children, breadcrumbs }) {
   const { auth } = usePage().props;

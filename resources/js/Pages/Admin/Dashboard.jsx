@@ -6,7 +6,7 @@ import {
     CardTitle,
     CardContent,
     CardDescription,
-} from "@/Components/ui/card";
+} from "@/components/ui/card";
 import {
     Table,
     TableHeader,
@@ -14,11 +14,11 @@ import {
     TableHead,
     TableRow,
     TableCell,
-} from "@/Components/ui/table";
-import { Button } from "@/Components/ui/button";
-import { Badge } from "@/Components/ui/badge";
-import { Avatar, AvatarFallback, AvatarImage } from "@/Components/ui/avatar";
-import { Progress } from "@/Components/ui/progress";
+} from "@/components/ui/table";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Progress } from "@/components/ui/progress";
 import { Head, Link } from "@inertiajs/react";
 import { useTranslation } from 'react-i18next';
 import { useLanguageChange } from '@/lib/useLanguageChange';

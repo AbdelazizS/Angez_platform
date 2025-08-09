@@ -1,9 +1,9 @@
 import React from 'react';
 import { usePage } from '@inertiajs/react';
 import { useTranslation } from 'react-i18next';
-import AppHeader from '@/Components/ui/AppHeader';
-import { SidebarProvider } from '@/Components/ui/sidebar';
-import ClientSidebar from '@/Components/ui/ClientSidebar';
+import AppHeader from '@/components/ui/AppHeader';
+import { SidebarProvider } from '@/components/ui/sidebar';
+import ClientSidebar from '@/components/ui/ClientSidebar';
 
 export default function ClientDashboardLayout({noPadding, children, breadcrumbs }) {
   const { auth } = usePage().props;

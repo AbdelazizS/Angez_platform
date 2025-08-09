@@ -8,7 +8,7 @@ import {
   SidebarGroup,
   SidebarMenu,
   SidebarMenuItem,
-} from '@/Components/ui/sidebar';
+} from '@/components/ui/sidebar';
 import { 
   Home, 
   Briefcase, 
@@ -23,9 +23,9 @@ import {
   DollarSign,
   Wallet
 } from 'lucide-react';
-import { Button } from '@/Components/ui/button';
-import { Avatar, AvatarFallback, AvatarImage } from '@/Components/ui/avatar';
-import { Tooltip, TooltipContent, TooltipTrigger } from '@/Components/ui/tooltip';
+import { Button } from '@/components/ui/button';
+import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
 import { cn } from '@/lib/utils';
 
 const sidebarItems = [

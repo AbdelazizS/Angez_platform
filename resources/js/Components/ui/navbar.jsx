@@ -13,9 +13,9 @@ import { Badge } from '@/components/ui/badge';
 import { useTranslation } from 'react-i18next';
 import { useDarkMode } from '@/lib/dark-mode';
 import { useLanguageChange } from '@/lib/useLanguageChange';
-import DarkModeToggle from '@/Components/DarkModeToggle';
-import LanguageDropdown from '@/Components/LanguageDropdown';
-import Logo from '@/Components/Logo';
+import DarkModeToggle from '@/components/DarkModeToggle';
+import LanguageDropdown from '@/components/LanguageDropdown';
+import Logo from '@/components/Logo';
 
 export default function ModernNavbar({ auth }) {
     const [isScrolled, setIsScrolled] = useState(false);

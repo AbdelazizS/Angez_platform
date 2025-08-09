@@ -1,9 +1,9 @@
 import React from 'react';
 import { usePage } from '@inertiajs/react';
 import { useTranslation } from 'react-i18next';
-import AdminSidebar from '@/Components/ui/AdminSidebar';
-import AppHeader from '@/Components/ui/AppHeader';
-import { SidebarProvider, SidebarTrigger } from '@/Components/ui/sidebar';
+import AdminSidebar from '@/components/ui/AdminSidebar';
+import AppHeader from '@/components/ui/AppHeader';
+import { SidebarProvider, SidebarTrigger } from '@/components/ui/sidebar';
 
 export default function AdminLayout({noPadding, children, breadcrumbs }) {
   const { auth } = usePage().props;

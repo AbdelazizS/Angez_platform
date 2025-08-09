@@ -1,7 +1,7 @@
 import { Head, Link, router } from "@inertiajs/react";
-import { Input } from "@/Components/ui/input";
-import { Checkbox } from "@/Components/ui/checkbox";
-import { Button } from "@/Components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Checkbox } from "@/components/ui/checkbox";
+import { Button } from "@/components/ui/button";
 import {
     Form,
     FormField,
@@ -9,7 +9,7 @@ import {
     FormLabel,
     FormControl,
     FormMessage,
-} from "@/Components/ui/form";
+} from "@/components/ui/form";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { createLoginSchema } from "@/lib/validations/auth";
@@ -17,7 +17,7 @@ import { useState } from "react";
 import { Toaster, toast } from "sonner";
 import { Loader2, Eye, EyeOff } from "lucide-react";
 import { useTranslation } from "react-i18next";
-import Logo from "@/Components/Logo";
+import Logo from "@/components/Logo";
 
 export default function Login({ status, canResetPassword }) {
     const { t, i18n } = useTranslation();

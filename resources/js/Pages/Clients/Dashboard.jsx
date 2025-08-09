@@ -6,9 +6,9 @@ import {
     CardTitle,
     CardDescription,
     CardFooter,
-} from "@/Components/ui/card";
-import { Button } from "@/Components/ui/button";
-import { Badge } from "@/Components/ui/badge";
+} from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
 import {
     ArrowUpRight,
     Package,
@@ -35,10 +35,10 @@ import {
     TableHead,
     TableHeader,
     TableRow,
-} from "@/Components/ui/table";
+} from "@/components/ui/table";
 import ClientDashboardLayout from "@/Layouts/ClientDashboardLayout";
 import { useTranslation } from "react-i18next";
-import { Progress } from "@/Components/ui/progress";
+import { Progress } from "@/components/ui/progress";
 import { route } from "ziggy-js";
 
 export default function ClientDashboard({

@@ -7,8 +7,8 @@ import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers';
 import { createRoot } from 'react-dom/client';
 import { DarkModeProvider } from './lib/dark-mode';
 import { LanguageProvider } from './lib/language';
-import LanguageChangeNotification from './Components/LanguageChangeNotification';
-import { Toaster } from './Components/ui/sonner';
+import LanguageChangeNotification from './components/LanguageChangeNotification';
+import { Toaster } from './components/ui/sonner';
 
 if (!Object.hasOwn) {
   Object.hasOwn = function(obj, prop) {

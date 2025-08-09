@@ -1,6 +1,6 @@
 import { Head, Link } from "@inertiajs/react";
-import Navbar from "@/Components/Home/Navbar";
-import Footer from "@/Components/Home/Footer";
+import Navbar from "@/components/Home/Navbar";
+import Footer from "@/components/Home/Footer";
 import { useTranslation } from "react-i18next";
 import { Shield, Mail, HelpCircle } from 'lucide-react';
 import { Button } from "@/components/ui/button";

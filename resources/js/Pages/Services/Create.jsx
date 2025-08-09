@@ -1,6 +1,6 @@
 import React from 'react';
 import { useForm } from '@inertiajs/react';
-import { Button } from '@/Components/ui/button';
+import { Button } from '@/components/ui/button';
 import { useTranslation } from 'react-i18next';
 
 export default function CreateService() {

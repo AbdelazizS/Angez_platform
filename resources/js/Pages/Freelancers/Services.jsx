@@ -1,9 +1,9 @@
 import React, { useState, useMemo } from "react";
 import { Head, Link, router } from "@inertiajs/react";
-import { Button } from "@/Components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/Components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import FreelancerDashboardLayout from "@/Layouts/FreelancerDashboardLayout";
-import DeleteConfirmationModal from "@/Components/DeleteConfirmationModal";
+import DeleteConfirmationModal from "@/components/DeleteConfirmationModal";
 import { toast } from "sonner";
 import {
     Table,
@@ -12,7 +12,7 @@ import {
     TableHead,
     TableRow,
     TableCell,
-} from "@/Components/ui/table";
+} from "@/components/ui/table";
 import {
     DropdownMenu,
     DropdownMenuContent,
@@ -20,16 +20,16 @@ import {
     DropdownMenuLabel,
     DropdownMenuSeparator,
     DropdownMenuTrigger,
-} from "@/Components/ui/dropdown-menu";
+} from "@/components/ui/dropdown-menu";
 import {
     Select,
     SelectContent,
     SelectItem,
     SelectTrigger,
     SelectValue,
-} from "@/Components/ui/select";
-import { Input } from "@/Components/ui/input";
-import { Badge } from "@/Components/ui/badge";
+} from "@/components/ui/select";
+import { Input } from "@/components/ui/input";
+import { Badge } from "@/components/ui/badge";
 import {
     useReactTable,
     getCoreRowModel,

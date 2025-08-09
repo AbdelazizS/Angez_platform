@@ -1,14 +1,14 @@
 import { Head, Link, router } from "@inertiajs/react";
-import { Input } from "@/Components/ui/input";
+import { Input } from "@/components/ui/input";
 import {
   Select,
   SelectTrigger,
   SelectValue,
   SelectContent,
   SelectItem,
-} from "@/Components/ui/select";
-import { Checkbox } from "@/Components/ui/checkbox";
-import { Button } from "@/Components/ui/button";
+} from "@/components/ui/select";
+import { Checkbox } from "@/components/ui/checkbox";
+import { Button } from "@/components/ui/button";
 import {
   Form,
   FormField,
@@ -16,7 +16,7 @@ import {
   FormLabel,
   FormControl,
   FormMessage,
-} from "@/Components/ui/form";
+} from "@/components/ui/form";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";

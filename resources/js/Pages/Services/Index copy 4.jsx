@@ -27,9 +27,9 @@ import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle, SheetTr
 import { Skeleton } from '@/components/ui/skeleton';
 import { Avatar, AvatarImage, AvatarFallback } from '@/components/ui/avatar';
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from '@/components/ui/pagination';
-import SearchBar from '@/Components/SearchBar';
-import Navbar from '@/Components/Home/Navbar';
-import Footer from '@/Components/Home/Footer';
+import SearchBar from '@/components/SearchBar';
+import Navbar from '@/components/Home/Navbar';
+import Footer from '@/components/Home/Footer';
 
 export default function ServicesIndex({ 
     services, 

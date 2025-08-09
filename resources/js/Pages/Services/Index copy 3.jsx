@@ -58,8 +58,8 @@ import {
 import { useTranslation } from "react-i18next";
 import { useLanguageChange } from "@/lib/useLanguageChange";
 import { useServiceLanguageFallback } from "@/lib/useLanguageFallback";
-import Navbar from "@/Components/Home/Navbar";
-import Footer from "@/Components/Home/Footer";
+import Navbar from "@/components/Home/Navbar";
+import Footer from "@/components/Home/Footer";
 
 export default function ServicesIndex({
     services = [],

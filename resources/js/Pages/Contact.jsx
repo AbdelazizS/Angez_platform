@@ -1,6 +1,6 @@
 import { Head, Link, router } from "@inertiajs/react";
-import Navbar from "@/Components/Home/Navbar";
-import Footer from "@/Components/Home/Footer";
+import Navbar from "@/components/Home/Navbar";
+import Footer from "@/components/Home/Footer";
 import { useTranslation } from "react-i18next";
 import { 
     Mail, 
@@ -17,8 +17,8 @@ import { useState } from 'react';
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { createContactSchema } from "@/lib/validations/contact";
-import { Input } from "@/Components/ui/input";
-import { Button } from "@/Components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Button } from "@/components/ui/button";
 import {
     Form,
     FormField,
@@ -26,8 +26,8 @@ import {
     FormLabel,
     FormControl,
     FormMessage,
-} from "@/Components/ui/form";
-import { Textarea } from "@/Components/ui/textarea";
+} from "@/components/ui/form";
+import { Textarea } from "@/components/ui/textarea";
 import { Toaster, toast } from "sonner";
 
 export default function Contact({ auth, errors, success }) {

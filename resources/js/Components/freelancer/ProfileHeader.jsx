@@ -1,5 +1,5 @@
 import React from 'react';
-import { Badge } from '@/Components/ui/badge';
+import { Badge } from '@/components/ui/badge';
 import { UserCheck, MapPin, Verified, Clock } from 'lucide-react';
 
 export default function ProfileHeader({ freelancer }) {

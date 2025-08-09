@@ -5,8 +5,8 @@ import {
     DropdownMenuContent,
     DropdownMenuItem,
     DropdownMenuTrigger,
-} from "@/Components/ui/dropdown-menu";
-import { Badge } from "@/Components/ui/badge";
+} from "@/components/ui/dropdown-menu";
+import { Badge } from "@/components/ui/badge";
 import {
     Card,
     CardContent,
@@ -14,7 +14,7 @@ import {
     CardTitle,
     CardDescription,
     CardFooter,
-} from "@/Components/ui/card";
+} from "@/components/ui/card";
 import {
     Table,
     TableHeader,
@@ -22,7 +22,7 @@ import {
     TableHead,
     TableRow,
     TableCell,
-} from "@/Components/ui/table";
+} from "@/components/ui/table";
 import {
     MoreVertical,
     Eye,
@@ -42,16 +42,16 @@ import {
 } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import ClientDashboardLayout from "@/Layouts/ClientDashboardLayout";
-import { Pagination } from "@/Components/ui/pagination";
-import { Input } from "@/Components/ui/input";
+import { Pagination } from "@/components/ui/pagination";
+import { Input } from "@/components/ui/input";
 import {
     Select,
     SelectContent,
     SelectItem,
     SelectTrigger,
     SelectValue,
-} from "@/Components/ui/select";
-import { Button } from "@/Components/ui/button";
+} from "@/components/ui/select";
+import { Button } from "@/components/ui/button";
 import {
     useReactTable,
     getCoreRowModel,
@@ -59,7 +59,7 @@ import {
     getPaginationRowModel,
 } from "@tanstack/react-table";
 import { toast } from "sonner";
-import ReviewCard from "@/Components/ReviewCard";
+import ReviewCard from "@/components/ReviewCard";
 
 export default function OrdersIndex({ orders, filters }) {
     const { t, i18n } = useTranslation();
